@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+
+// Colors for Luc's Climate Blog - Light Theme
+
+$luc-primary:       #24400e;  // Forest green (deep, natural)
+$luc-primary-light: #1d2b0b;  // Soft leafy green
+$luc-secondary:     #023e40;  // Ocean blue (strong and cool)
+$luc-secondary-light: #393c3d; // Sky blue (bright, airy)
+
+$luc-accent:        #fff8e1;  // Pale yellow (sunlight vibe)
+$luc-accent-light:  #ffffff;  // Pure white
+$luc-accent-dark:   #023e40;  // Fresh light green
+
+$luc-bg-0:          #f2ebd8;  // Very light green (natural background)
+$luc-bg-1:          #f2ebd8;  // Near white (clean, breathable)
+$luc-bg-00:         rgba(46, 125, 50, 0.1); // Semi-transparent forest green for overlays/shadows
+
+
+// Export variables
+$spc-primary: $luc-primary;
+$spc-primary-light: $luc-primary-light;
+$spc-secondary: $luc-secondary;
+$spc-secondary-light: $luc-secondary-light;
+$spc-accent: $luc-accent;
+$spc-accent-light: $luc-accent-light;
+$spc-accent-dark: $luc-accent-dark;
+$spc-bg-0: $luc-bg-0;
+$spc-bg-1: $luc-bg-1;
+$spc-bg-00: $luc-bg-00;

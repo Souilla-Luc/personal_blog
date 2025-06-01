@@ -1,0 +1,145 @@
+---
+title: "Luc Souilla"
+subtitle: Post-Doctoral Researcher
+image: sidebar/avatar.png
+image-alt: "Smiling men with glasses, brown beard, and green teeshirt"
+about:
+  template: trestles
+  image-width: 14em
+  image-shape: rounded
+  id: hero-heading
+  links:
+    - icon: github
+      aria-label: GitHub
+      href: https://github.com/Souilla-Luc
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0002-5773-1440
+listing: 
+- id: blog
+  contents: 
+    - "../blog/*/index.qmd"
+    - "../blog/*/index.markdown"
+  sort: date desc
+  type: grid
+  grid-columns: 1
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, subtitle, image]
+  max-items: 1
+  image-height: "200"
+- id: publication
+  contents: 
+    - "../publication/*/index.qmd"
+    - "../publication/*/index.markdown"
+  sort: date desc
+  type: grid
+  grid-columns: 1
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, image]
+  max-items: 1
+  image-height: "200"
+  image-placeholder: ../publication/featured.jpg
+- id: project
+  contents: 
+    - "../project/*/index.qmd"
+    - "../project/*/index.markdown"
+  sort: date desc
+  type: grid
+  grid-columns: 1
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, subtitle, image]
+  max-items: 1
+  image-height: "200"
+format: 
+  html: 
+    page-layout: full
+
+header-includes: >
+  <link rel="stylesheet" href="../assets/about.css">
+resources:
+  - ../assets/about.css
+---
+
+:::: {#hero-heading}
+::: h1
+About me
+:::
+
+Driven by a strong commitment to tackling **climate change**, the most pressing issue for all living species, I am focused on understanding **how the human body will respond** to these environmental challenges in the decades ahead.
+I am a post-doctoral researcher at the [Human Integrative environmental physiology lab](https://centreepic.org/recherche/) (Montreal Heart Institute) and I am also affiliated to the Department of Kinesiology and Physical activity Sciences at the University of Montreal. 
+My research focuses on **how vulnerable populations physiologically and perceptually react to heat exposure**, utilizing home-based monitoring and environmental simulations in a chamber.
+
+Learn more about my research interests in [publications](/publication).
+
+Get in touch by [sending me a note](/contact.qmd)! {{< fa feather-pointed >}}
+::::
+
+## Academic Journey
+
+::::: grid
+::: {#about-me-1 .g-col-6}
+**From exercise physiologist to research** <span style="font-size: 1.1em;">🔍</span>
+
+From the tender days of my childhood, the world of competitive sports was my playground, often overshadowing my academic pursuits. When I started at the sports science university in Toulouse, France, in 2016, it was the first time I engaged with my studies at such a deep level. 
+
+By 2019, I had graduated as an exercise physiologist and was eager to explore the connection between physical activity and health benefits. Through various internships and summer jobs, my interest in research grew, particularly in understanding complex mechanisms and interactions, as well as evaluating how different exercise programs can yield various physiological effects. This led me to pursue, a research master’s degree focused on exercise rehabilitation and health benefits at the University of Montpellier. 
+
+By 2020, I started a one-year internship in the pediatric cardiology Department of University Hospital of Montpellier, working with children and adolescents who had inherited cardiac diseases and were disqualified from sports and restricted from physical activity to prevent cardiac events. Initially, I found this situation unjust and complicated, given how physical activity shaped my childhood. 
+
+In 2021, I received a PhD scholarship to continue exploring this research question, aiming to pave a new path for managing these children by (a) describing their concerning levels of physical activity and fitness compared to healthy children, and (b) creating a cardiac rehabilitation program tailored to each child's condition and disease status, encouraging long-term physical activity. After three years, I graduated [with a Ph.D. in 2024](https://theses.fr/s386066).
+:::
+
+::: {#about-me-2 .g-col-6}
+
+**So, what about climate change then? <span style="font-size: 18px;">🌍</span>**
+
+When I started university, I became more aware of the challenges posed by climate change and realized how crucial it was for the younger generation to channel their energy into action. Beginning my research during my master 's was a perfect opportunity to delve deeper into this interest. I learned how science is built on evidence and high-quality methodology, and I also saw how experts sounded an alarm on this issue. 
+
+During my PhD, I collaborated with researchers to explore how global warming could threaten health, particularly the cardiovascular system, in children with heart diseases. I also took personal steps like eating locally, not flying, gardening, calculating my personal carbon footprint, and participating in community awareness workshops and associations. By the end of my PhD, I made perfect sense to shift my research focus slightly towards climate issues as I continued my academic journey. 
+
+I was fortunate to start a postdoc position at the Montreal Heart Institute, where I studied how the human body reacts to heat exposure, an increasingly relevant topic given the current and future scenarios of global warming. Building on my PhD work, I aim to investigate how vulnerable groups such as children can face the challenges imposed by global warming and to understand the relationship between physical activity, fitness, and environmental challenges.
+
+For years, I have been engaged in teaching students and sharing scientific results with the broader community, making complex scientific findings more accessible. Check my [blog](/blog), where I present visual and text summaries in plain language on environmental challenges related to climate change, human body adaptive responses, and health issues.
+
+
+</ul>
+:::
+:::::
+
+<!-- end grid -->
+
+## Lately ...
+
+::::::::::: grid
+:::: g-col-4
+#### Blog
+
+::: {#blog}
+:::
+
+[See all →](../blog){.about-links .subtitle}
+::::
+
+:::: g-col-4
+#### Publications
+
+::: {#publication}
+:::
+
+[See all →](../publication){.about-links .subtitle}
+::::
+
+:::: g-col-4
+#### Projects
+
+::: {#project}
+:::
+
+[See all →](../project){.about-links .subtitle}
+::::
+:::::::::::

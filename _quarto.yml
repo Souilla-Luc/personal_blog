@@ -2,20 +2,71 @@ project:
   type: website
 
 website:
-  title: "personal-blog"
+  title: "Luc Souilla"
+  site-url: https://luc-souilla.netlify.app/
+  description: "Researcher interest by global warming and consequences on health."
+  favicon: assets/luc/img/logo_rounded.svg
+  page-navigation: true
+  back-to-top-navigation: true
+  comments: 
+    utterances: 
+      repo: Souilla-Luc/personal_blog 
+      label: utterances
+      theme: body-light
+      issue-term: title
+
   navbar:
+    logo: assets/luc/img/logo_rounded.svg
     right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
-format:
+      - text: About
+        aria-label: "About Me"
+        href: about/index.qmd
+      - text: Blog
+        aria-label: "Blog"
+        href: blog/index.qmd
+      - text: Publications
+        aria-label: "Publications"
+        href: publication/index.qmd
+      - text: Projects
+        aria-label: "Project Portfolio"
+        href: project/index.qmd
+
+  page-footer:  
+    left: >-
+      &#169; 2025 Luc Souilla &#8729; Made with [Quarto](https://quarto.org)
+    center: |
+      <a class="link-dark me-1" href="https://github.com/Souilla-Luc" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
+      <a class="link-dark me-1" href="https://orcid.org/0000-0002-5773-1440" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
+    right: 
+      - text: "Contact"
+        aria-label: "Contact Form"
+        href: "contact.qmd"
+      - text: "License"
+        aria-label: "License Details"
+        href: license.qmd
+      - icon: rss
+        href: blog/index.xml
+
+format: 
   html:
     theme:
-      - cosmo
-      - brand
-    css: styles.css
+      light:
+        - cosmo
+        - assets/luc-theme-light.scss
+        - assets/luc/colors-light.scss
+        - assets/luc/fonts.scss
+      dark:
+        - cosmo
+        - assets/luc-theme-dark.scss
+        - assets/luc/colors-dark.scss
+    highlight-style:
+      light: assets/luc/a11y-light.theme
+      dark: assets/luc/a11y-dark.theme
+    code-link: true
+    pagetitle: "{{< meta title >}}"
+    lightbox: true
 
-editor: visual
+execute: 
+  freeze: auto
 
+ #include-in-header: assets/luc/umami.html

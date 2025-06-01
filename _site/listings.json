@@ -1,9 +1,121 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/talk/index.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/talk/2024-07-10-data-equity-ldi/index.html",
+      "/talk/2024-03-26-env-justice/index.html",
+      "/talk/2023-10-11-epis4equity/index.html",
+      "/talk/2023-03-09-penn-community-scholars/index.html",
+      "/talk/2022-11-10-thinking-big/index.html",
+      "/talk/2022-09-29-ccd-sips/index.html",
+      "/talk/2022-04-27-dbei-research-day/index.html",
+      "/talk/2022-02-11-tdw-ehr-lessons/index.html",
+      "/talk/2021-07-07-presentable-user2021/index.html",
+      "/talk/2021-05-04-data-viz-accessibility/index.html",
+      "/talk/2021-03-23-amia-informatics-summit/index.html",
+      "/talk/2021-03-16-xaringan-deploy-demo/index.html",
+      "/talk/2021-02-18-r-teaching-panel/index.html",
+      "/talk/2020-12-17-introduccion-xaringan/index.html",
+      "/talk/2020-11-03-xaringan-basics-and-beyond/index.html",
+      "/talk/2020-08-31-tour-of-the-tidyverse/index.html"
     ]
+  },
+  {
+    "listing": "/project/index.html",
+    "items": [
+      "/project/2025-02-28-NICAR-calendar/index.html",
+      "/project/2024-06-16-ccd-sips/index.html",
+      "/project/2023-04-18-r-for-the-rest-of-us/index.html",
+      "/project/2021-07-07-presentable-user2021/index.html",
+      "/project/2021-05-04-tidy-tuesday-alt-text/index.html",
+      "/project/2021-01-01-useR-2021/index.html",
+      "/project/2020-12-28-teaching-tech-together-es/index.html",
+      "/project/2020-12-09-xaringan/index.html",
+      "/project/2020-11-03-xaringan-nhs-r/index.html",
+      "/project/2020-10-29-nhsrtheme/index.html",
+      "/project/2020-08-27-teaching-support/index.html",
+      "/project/2020-03-25-data-hack-opioid/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2024-12-17-causality-311/index.html",
+      "/blog/2024-12-21-gentrification-311/index.html",
+      "/blog/2024-11-27-nearby-parks/index.html",
+      "/blog/2024-11-27-tree-canopy/index.html",
+      "/blog/2023-09-29-hello-quarto/index.html",
+      "/blog/2022-05-31-ccd-sips/index.html",
+      "/blog/2022-01-18-hello-umami/index.html",
+      "/blog/2021-09-23-data-viz-a11y/index.html",
+      "/blog/2021-06-02-wave-audit-1/index.html",
+      "/blog/2021-06-01-hello-hugo-apero/index.html",
+      "/blog/2021-03-16-deploying-xaringan-slides/index.html",
+      "/blog/2020-10-07-rstudio-instructor-certification-tidyverse/index.html",
+      "/blog/2020-05-26-dark-mode-custom-with-atom/index.html",
+      "/blog/2020-05-12-trello-to-airtable/index.html"
+    ]
+  },
+  {
+    "listing": "/about/index.html",
+    "items": [
+      "/blog/2024-12-17-causality-311/index.html",
+      "/blog/2024-12-21-gentrification-311/index.html",
+      "/blog/2024-11-27-nearby-parks/index.html",
+      "/blog/2024-11-27-tree-canopy/index.html",
+      "/blog/2023-09-29-hello-quarto/index.html",
+      "/blog/2022-05-31-ccd-sips/index.html",
+      "/blog/2022-01-18-hello-umami/index.html",
+      "/blog/2021-09-23-data-viz-a11y/index.html",
+      "/blog/2021-06-02-wave-audit-1/index.html",
+      "/blog/2021-06-01-hello-hugo-apero/index.html",
+      "/blog/2021-03-16-deploying-xaringan-slides/index.html",
+      "/blog/2020-10-07-rstudio-instructor-certification-tidyverse/index.html",
+      "/blog/2020-05-26-dark-mode-custom-with-atom/index.html",
+      "/blog/2020-05-12-trello-to-airtable/index.html",
+      "/publication/2025-03-01-jama-Qualimyorythm/index.html",
+      "/publication/2024-07-12-bmcssmr-rehabQTLong/index.html",
+      "/publication/2024-03-02-ehj-Qualirehab/index.html",
+      "/publication/2024-02-07-jmc-multimorbidity/index.html",
+      "/publication/2024-01-03-pedexesci-heat-children-heart/index.html",
+      "/publication/2023-08-01-sportmed-normsVO2/index.html",
+      "/publication/2023-02-21-eurprevcardio-normsVO2/index.html",
+      "/publication/2023-01-10-frontierscvd-longQT-children-crfPa/index.html",
+      "/publication/2021-07-29-qolbmc-Qualimyorythm study protocol/index.html",
+      "/project/2025-02-28-NICAR-calendar/index.html",
+      "/project/2024-06-16-ccd-sips/index.html",
+      "/project/2023-04-18-r-for-the-rest-of-us/index.html",
+      "/project/2021-07-07-presentable-user2021/index.html",
+      "/project/2021-05-04-tidy-tuesday-alt-text/index.html",
+      "/project/2021-01-01-useR-2021/index.html",
+      "/project/2020-12-28-teaching-tech-together-es/index.html",
+      "/project/2020-12-09-xaringan/index.html",
+      "/project/2020-11-03-xaringan-nhs-r/index.html",
+      "/project/2020-10-29-nhsrtheme/index.html",
+      "/project/2020-08-27-teaching-support/index.html",
+      "/project/2020-03-25-data-hack-opioid/index.html"
+    ]
+  },
+  {
+    "listing": "/publication/index.html",
+    "items": [
+      "/publication/2025-03-01-jama-Qualimyorythm/index.html",
+      "/publication/2024-07-12-bmcssmr-rehabQTLong/index.html",
+      "/publication/2024-03-02-ehj-Qualirehab/index.html",
+      "/publication/2024-02-07-jmc-multimorbidity/index.html",
+      "/publication/2024-01-03-pedexesci-heat-children-heart/index.html",
+      "/publication/2023-08-01-sportmed-normsVO2/index.html",
+      "/publication/2023-02-21-eurprevcardio-normsVO2/index.html",
+      "/publication/2023-01-10-frontierscvd-longQT-children-crfPa/index.html",
+      "/publication/2021-07-29-qolbmc-Qualimyorythm study protocol/index.html"
+    ]
+  },
+  {
+    "listing": "/project/2020-08-27-teaching-support/index.html",
+    "items": []
+  },
+  {
+    "listing": "/project/2024-06-16-ccd-sips/index.html",
+    "items": []
   }
 ]
