@@ -1,0 +1,35 @@
+---
+title: "Health-related quality of life and physical activity in children with inherited cardiac arrhythmia or inherited cardiomyopathy: the prospective multicentre controlled QUALIMYORYTHM study rationale, design and methods"
+author:
+- Pascal Amedro
+- Oscar Werner
+- et al,
+- name: Luc Souilla
+  orcid: 0000-0002-5773-1440
+- et al,
+- Damien Bonnet
+- Jean-Luc Pasquie
+date: '2021-07-28'
+slug: bmcQol - Qualimyorythm
+
+categories:
+  - study protocol
+  - Quality of Life
+  - Heart diseases
+  - Children
+description: 'Health and Quality of Life Outcomes'
+subtitle: 'The main objective of the QUALIMYORYTHM trial is to compare the QoL of children aged 6 to 17 years old with inherited cardiac arrhythmia or inherited cardiomyopathy to that of matched healthy children.'
+abstract: ''
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1186/s12955-021-01825-6
+---
+
+## Abstract
+
+**Background.** Advances in paediatric cardiology have improved the prognosis of children with inherited cardiac disorders. However, health-related quality of life (QoL) and physical activity have been scarcely analysed in children with inherited cardiac arrhythmia or inherited cardiomyopathy. Moreover, current guidelines on the eligibility of young athletes with inherited cardiac disorders for sports participation mainly rely on expert opinions and remain controversial.
+
+**Methods.** The QUALIMYORYTHM trial is a multicentre observational controlled study. The main objective is to compare the QoL of children aged 6 to 17 years old with inherited cardiac arrhythmia (long QT syndrome, Brugada syndrome, catecholaminergic polymorphic ventricular tachycardia, or arrhythmogenic right ventricular dysplasia), or inherited cardiomyopathy (hypertrophic, dilated, or restrictive cardiomyopathy), to that of age and gender-matched healthy subjects. The secondary objective is to assess their QoL according to the disease’s clinical and genetic characteristics, the level of physical activity and motivation for sports, the exercise capacity, and the socio-demographic data. Participants will wear a fitness tracker (ActiGraph GT3X accelerometer) for 2 weeks. A total of 214 children are required to observe a significant difference of 7 ± 15 points in the PedsQL, with a power of 90% and an alpha risk of 5%.
+
+**Discussion.** After focusing on the survival in children with inherited cardiac disorders, current research is expanding to patient-reported outcomes and secondary prevention. The QUALIMYORYTHM trial intends to improve the level of evidence for future guidelines on sports eligibility in this population.

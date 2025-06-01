@@ -1,0 +1,37 @@
+---
+title: "Cardiac rehabilitation in children and adolescents with long QT syndrome: the RYTHMO’FIT pilot study"
+author:
+- name: Luc Souilla
+  orcid: 0000-0002-5773-1440
+- Sophie Guillaumont
+- et al,
+- Denis Mottet
+- Pascal Amedro
+date: '2024-07-12'
+slug: qtlong-rehab
+image: featured.png
+categories:
+  - research
+  - Cardiac Rehabilitation
+  - QT Long syndrome
+  - Pediatrics
+description: 'BMC Sports Science, Medicine and Rehabilitation'
+subtitle: 'To assess the feasibility, acceptability, safety, and short-term benefits of a tailored cardiac rehabilitation program for children and adolescents with long QT syndrome.'
+abstract: ''
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-024-00941-2
+---
+
+## Abstract
+
+**Background.** To assess the feasibility, acceptability, safety, and short-term benefits of a tailored cardiac rehabilitation program for children and adolescents with long QT syndrome (LQTS). 
+
+**Methods.** Eight participants, aged between 6 and 18, with a positive LQTS genotype and impaired cardiorespiratory fitness, were enrolled in a 12-week centre-based cardiac rehabilitation program. The program included supervised exercise training group sessions (aerobic, resistance, and outdoor activities) and patient education workshops. Feasibility, acceptability, and safety of the program were prospectively monitored. Feedback from the parents, children, and professionals involved was collected from qualitative interviews. Short-term effects on cardiorespiratory fitness, muscle fitness, physical activity, and health-related quality of life (HRQoL) were measured between baseline and the end of the program.  
+
+**Results.** Retention (88% with one participant dropping out) and adherence (79%) rates were good, and no cardiac events occurred during the 12-week intervention period. Participants, parents, and healthcare professionals expressed a high level of satisfaction with the program. A significant increase between the beginning and the end of the program was observed for ventilatory anaerobic threshold (21.7±5.2 vs. 28.7±5.1 mL/kg/min, P=0.01, effect size=0.89), grip strength, (18±5.3 Kg vs. 20±4.7 Kg, P=0.02, effect size=0.90), lower limb explosive strength (142±36.5 cm vs. 148±24 cm, P=0.02, effect size=0.90), and parent-reported physical health dimension of HRQoL (65.6±9.75 vs. 84.4±20.35, P=0.03, effect size=0.87).
+
+**Conclusions.** A 12-week tailored centre-based cardiac rehabilitation program was feasible, acceptable, and safe for children with LQTS. Cardiac rehabilitation for children with LQTS presents a new approach aligned with secondary prevention in youth with cardiac diseases.
+
+![A graphical overview of the study.](featured.png){fig-alt=""}

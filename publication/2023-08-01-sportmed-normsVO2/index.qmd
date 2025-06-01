@@ -1,0 +1,35 @@
+---
+title: "Reference Values of Cardiopulmonary Exercise Test Parameters in the Contemporary Paediatric Population"
+author:
+- Pascal Amedro
+- Stefan Matecki
+- et al,
+- name: Luc Souilla
+  orcid: 0000-0002-5773-1440
+- et al,
+- Thibault Mura
+- Arthur Gavotto
+date: '2023-08-01'
+slug: sportmed - norm VO2
+
+categories:
+  - research
+  - Cardiorespiratory fitness
+  - Heart diseases
+  - Children
+description: 'Sport Medicine - Open'
+subtitle: 'This study aimed to establish, from the same cohort, reference Z-score values for the main paediatric cycle ergometer CPET parameters, apart from VO2max.'
+abstract: ''
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1186/s40798-023-00622-3
+---
+
+## Abstract
+
+**Background.** The evaluation of health status by cardiopulmonary exercise test (CPET) has shown increasing interest in the paediatric population. Our group recently established reference Z-score values for paediatric cycle ergometer VO2max, applicable to normal and extreme weights, from a cohort of 1141 healthy children. There are currently no validated reference values for the other CPET parameters in the paediatric population. This study aimed to establish, from the same cohort, reference Z-score values for the main paediatric cycle ergometer CPET parameters, apart from VO2max.
+
+**Results.** In this cross-sectional study, 909 healthy children aged 5–18 years old underwent a CPET. Linear, quadratic, and polynomial mathematical regression equations were applied to identify the best CPET parameters Z-scores, according to anthropometric parameters (sex, age, height, weight, and BMI). This study provided Z-scores for maximal CPET parameters (heart rate, respiratory exchange ratio, workload, and oxygen pulse), submaximal CPET parameters (ventilatory anaerobic threshold, VE/VCO2 slope, and oxygen uptake efficiency slope), and maximum ventilatory CPET parameters (tidal volume, respiratory rate, breathing reserve, and ventilatory equivalent for CO2 and O2).
+
+**Conclusions.** This study defined paediatric reference Z-score values for the main cycle ergometer CPET parameters, in addition to the existing reference values for VO2max, applicable to children of normal and extreme weights. Providing Z-scores for CPET parameters in the paediatric population should be useful in the follow-up of children with various chronic diseases. Thus, new paediatric research fields are opening up, such as prognostic studies and clinical trials using cardiopulmonary fitness outcomes.

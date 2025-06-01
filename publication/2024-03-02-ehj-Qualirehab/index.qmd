@@ -1,0 +1,40 @@
+---
+title: "Early hybrid cardiac rehabilitation in congenital heart disease: the QUALIREHAB trial"
+author:
+
+- Pascal Amedro
+- Arthur Gavotto
+- Helena Huguet
+- name: Luc Souilla
+  orcid: 0000-0002-5773-1440
+- et al,
+- Marie-Christine Picot
+- Sophie Guillaumont
+date: '2024-03-02'
+slug: europeanhj - Qualirehab
+
+categories:
+  - research
+  - Cardiac rehabilitation
+  - Heart diseases
+  - Children
+description: 'European Heart Journal'
+subtitle: 'In the QUALIREHAB multicentre randomized controlled trial, we aimed to assess the impact of a hybrid centre- and home-based cardiac rehabilitation programme on HRQoL, cardiovascular outcomes, cardiopulmonary fitness, and psychological outcomes, in adolescents and young adults with CHD.'
+abstract: ''
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1093/eurheartj/ehae085
+---
+
+## Abstract
+
+**Background.** Cardiopulmonary fitness in congenital heart disease (CHD) decreases faster than in the general population resulting in impaired health-related quality of life (HRQoL). As the standard of care seems insufficient to encourage and maintain fitness, an early hybrid cardiac rehabilitation programme could improve HRQoL in CHD.
+
+**Methods.** The QUALIREHAB multicentre, randomized, controlled trial evaluated and implemented a 12-week centre- and home-based hybrid cardiac rehabilitation programme, including multidisciplinary care and physical activity sessions. Adolescent and young adult CHD patients with impaired cardiopulmonary fitness were randomly assigned to either the intervention (i.e. cardiac rehabilitation) or the standard of care. The primary outcome was the change in HRQoL from baseline to 12-month follow-up in an intention-to-treat analysis. The secondary outcomes were the change in cardiovascular parameters, cardiopulmonary fitness, and mental health.
+
+**Results.** The expected number of 142 patients was enroled in the study (mean age 17.4 ± 3.4 years, 52% female). Patients assigned to the intervention had a significant positive change in HRQoL total score [mean difference 3.8; 95% confidence interval (CI) 0.2; 7.3; P = .038; effect size 0.34], body mass index [mean difference −0.7 kg/m2 (95% CI −1.3; −0.1); P = .022; effect size 0.41], level of physical activity [mean difference 2.5 (95% CI 0.1; 5); P = .044; effect size 0.39], and disease knowledge [mean difference 2.7 (95% CI 0.8; 4.6); P = .007; effect size 0.51]. The per-protocol analysis confirmed these results with a higher magnitude of differences. Acceptability, safety, and short-time effect of the intervention were good to excellent.
+
+**Conclusions.** This early hybrid cardiac rehabilitation programme improved HRQoL, body mass index, physical activity, and disease knowledge, in youth with CHD, opening up the possibility for the QUALIREHAB programme to be rolled out to the adult population of CHD and non-congenital cardiac disease.
+
+![A graphical overview of the study.](featured.png){fig-alt=""}

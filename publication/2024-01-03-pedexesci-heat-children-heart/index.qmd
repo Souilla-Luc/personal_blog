@@ -1,0 +1,29 @@
+---
+title: "Children With Cardiac Disease and Heat Exposure: Catastrophic Converging Consequences?"
+author:
+- name: Luc Souilla
+  orcid: 0000-0002-5773-1440
+- Pascal Amedro
+- Shawnda A. Morrison
+date: '2024-01-03'
+slug: pedexesci - heart disease
+
+categories:
+  - viewpoint
+  - Heat exposure
+  - Heart diseases
+  - Children
+description: 'Pediatric Exercise Science'
+subtitle: 'Viewpoint articles highlighting the lack of studies on how children with heart disease can be considered at risk during prolonged heat exposure'
+abstract: ''
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1123/pes.2023-0086
+---
+
+## Graphical Overview
+
+
+
+![A graphical overview of the study.](featured.png){fig-alt=""}

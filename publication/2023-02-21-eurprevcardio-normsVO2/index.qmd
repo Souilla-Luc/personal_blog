@@ -1,0 +1,35 @@
+---
+title: "Reference values of aerobic fitness in the contemporary paediatric population"
+author:
+- Arthur Gavotto
+- Thibault Mura
+- et al,
+- name: Luc Souilla
+  orcid: 0000-0002-5773-1440
+- et al,
+- Stefan Matecki
+- Pascal Amedro
+date: '2023-02-21'
+slug: eur prev card - norm VO2
+
+categories:
+  - research
+  - Cardiorespiratory fitness
+  - Heart diseases
+  - Children
+description: 'Eur Prev Card'
+subtitle: 'This study aimed to establish VO2max reference Z-score values, from a large cohort of children representative of the contemporary paediatric population, including those with extreme weights.'
+abstract: ''
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1093/eurjpc/zwad054
+---
+
+## Abstract
+
+**Background.** There has been a growing interest in the use of markers of aerobic physical fitness (VO2max assessed by cardiopulmonary exercise test (CPET)) in the follow-up of paediatric chronic diseases. The dissemination of CPET in paediatrics requires valid paediatric VO2max reference values to define the upper and lower normal limits. This study aimed to establish VO2max reference Z-score values, from a large cohort of children representative of the contemporary paediatric population, including those with extreme weights.
+
+**Methods and Results.** In this cross-sectional study, 909 children aged 5 to 18 years old from the general French population (development cohort) and 232 children from the general German and US populations (validation cohort) underwent a CPET, following the guidelines on high-quality CPET assessment. Linear, quadratic, and polynomial mathematical regression equations were applied to identify the best VO2max Z-score model. Predicted and observed VO2max values using the VO2max Z-score model, and the existing linear equations were compared, in both development and validation cohorts. For both sexes, the mathematical model using natural logarithms of VO2max, height, and BMI was the best fit for the data. This Z-score model could be applied to normal and extreme weights and was more reliable than the existing linear equations, in both internal and external validity analyses (https://play.google.com/store/apps/details?id=com.d2l.zscore).
+
+**Conclusions.** This study established reference Z-score values for paediatric cycloergometer VO2max using a logarithmic function of VO2max, height, and BMI, applicable to normal and extreme weights. Providing Z-scores to assess aerobic fitness in the paediatric population should be useful in the follow-up of children with chronic diseases.

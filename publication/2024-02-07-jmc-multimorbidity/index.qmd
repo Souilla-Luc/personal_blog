@@ -1,0 +1,37 @@
+---
+title: "Childhood and adolescence physical activity and multimorbidity later in life: A systematic review"
+author:
+- name: Luc Souilla
+  orcid: 0000-0002-5773-1440
+- Anders C. Larsen
+- Carsten B. Juhl
+- Søren T. Skou
+- Alessio Bricca
+date: '2024-02-07'
+slug: multimorbidity-physical activity
+image: featured.png
+categories:
+  - research
+  - Multimorbidity
+  - Physical activity
+  - Systematic review
+description: 'Journal of Multimorbidity and Comorbidity'
+subtitle: 'We primarily investigated the association of physical activity in childhood and adolescence and the development of multimorbidity in adulthood. Secondarily, we examined whether physical activity level differ in children and adolescents with and without multimorbidity and whether there is a cross-sectional association between physical activity and multimorbidity.'
+abstract: ''
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://journals.sagepub.com/doi/10.1177/26335565241231403
+---
+
+## Abstract
+
+**Background.** No systematic summary exists on childhood physical activity and later-life multimorbidity risks. We primarily investigated the association of physical activity in childhood and adolescence and the development of multimorbidity in adulthood. Secondarily, we examined whether physical activity level differ in children and adolescents with and without multimorbidity and whether there is a cross-sectional association between physical activity and multimorbidity.
+
+**Methods.** Following Cochrane Handbook guidelines and adhering to PRISMA recommendations, we included cross-sectional, case-control and longitudinal studies that investigated the association between physical activity in children and adolescents and development of multimorbidity. Results were summarized narratively and we assessed the certainty of the evidence using the GRADE approach. The protocol was registered in PROSPERO, CRD42023407063.  
+
+**Results.** Of 9064 studies identified, 11 were included in 13 papers. Longitudinals studies suggested that being physically active in childhood and adolescence was associated with a lower risk of multimorbidity in adulthood. Three out of five studies reported lower physical activity level in children and adolescents with multimorbidity compared to those without, and two did not find a between-group difference. Cross-sectional evidence on the association between multimorbidity and lower physical activity was uncertain. Overall, the evidence certainty for all outcomes was considered low due to the indirectness and inconsistency in findings.
+
+**Conclusions.** Childhood and adolescence physical activity appeared to be linked with a reduced risk of later-life multimorbidity but the certainty of the evidence is low. These results support the promotion of physical activity during childhood and adolescence.
+
+![A graphical overview of the study.](featured.png){fig-alt=""}

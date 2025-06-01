@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+
+// Colors for Luc's Climate Blog - Dark Theme
+
+$luc-primary:         #a8d5ba;  // Soft sage green (used for buttons, links)
+$luc-primary-light:   #cfe8d9;  // Muted mint (hover states, highlights)
+
+$luc-secondary:       #8ac7db;  // Muted sky blue (contrast without harshness)
+$luc-secondary-light: #b9e1ec;  // Soft pale blue
+
+$luc-accent:          #ffecc2;  // Warm pale yellow (sunlight hint for headers or accents)
+$luc-accent-light:    #fffdf5;  // Near-white (text or callouts)
+$luc-accent-dark:     #e0ba80;  // Toasted beige (natural, warm shadow/hover)
+
+$luc-bg-0:            #121a13;  // Dark forest green-black (main background)
+$luc-bg-1:            #1e2b22;  // Slightly lighter for cards or panels
+$luc-bg-00:           rgba(255, 255, 255, 0.05); // Very light overlay for borders or shadows
+
+
+// Export variables
+$spc-primary: $luc-primary;
+$spc-primary-light: $luc-primary-light;
+$spc-secondary: $luc-secondary;
+$spc-secondary-light: $luc-secondary-light;
+$spc-accent: $luc-accent;
+$spc-accent-light: $luc-accent-light;
+$spc-accent-dark: $luc-accent-dark;
+$spc-bg-0: $luc-bg-0;
+$spc-bg-1: $luc-bg-1;
+$spc-bg-00: $luc-bg-00;

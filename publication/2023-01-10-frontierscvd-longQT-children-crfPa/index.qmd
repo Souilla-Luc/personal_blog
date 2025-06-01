@@ -1,0 +1,37 @@
+---
+title: "Cardiorespiratory fitness, muscle fitness, and physical activity in children with long QT syndrome: A prospective controlled study"
+author:
+- name: Luc Souilla
+  orcid: 0000-0002-5773-1440
+- Martina Avesani
+- Aymeric Boisson
+- et al,
+- Pascal Amedro
+date: '2023-01-10'
+slug: frontierscvd - QT Long Crf
+
+categories:
+  - research
+  - Cardiorespiratory fitness
+  - Heart diseases
+  - Children
+description: 'Frontiers in Cardiovascular Medicine'
+subtitle: 'Research articles evaluating the cardiorespiratory fitness and physical activity in children with Long QT syndrome compared to healthy controls.'
+abstract: ''
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.3389/fcvm.2022.1081106
+---
+
+## Abstract
+
+**Background.** In children with congenital long QT syndrome (LQTS), the risk of arrhythmic events during exercise commonly makes it difficult to balance exercise restrictions versus promotion of physical activity. Nevertheless, in children with LQTS, cardiorespiratory fitness, muscle fitness, and physical activity, have been scarcely explored.
+
+**Methods.** In this prospective, controlled, cross-sectional study, 20 children with LQTS (12.7 ± 3.7 years old) and 20 healthy controls (11.9 ± 2.4 years old) were enrolled. All participants underwent a cardiopulmonary exercise test, a muscular architecture ultrasound assessment, (cross-sectional area on right rectus femoris and pennation angle), a handgrip muscular strength evaluation, and a standing long broad jump test. The level of physical activity was determined using with a waist-worn tri-axial accelerometer (Actigraph GT3X).
+
+**Results.** Peak oxygen uptake (VO2peak) and ventilatory anaerobic threshold (VAT) were lower in children with LQTS than in healthy controls (33.9 ± 6.2 mL/Kg/min vs. 40.1 ± 6.6 mL/Kg/min, P = 0.010; 23.8 ± 5.1 mL/Kg/min vs. 28.8 ± 5.5 mL/Kg/min, P = 0.007, respectively). Children with LQTS had lower standing long broad jump distance (119.5 ± 33.2 cm vs. 147.3 ± 36.1 cm, P = 0.02) and pennation angle (12.2 ± 2.4° vs. 14.3 ± 2.8°, P = 0.02). No differences in terms of moderate-to-vigorous physical activity were observed (36.9 ± 12.9 min/day vs. 41.5 ± 18.7 min/day, P = 0.66), but nearly all children were below the WHO guidelines.
+
+**Conclusions.** Despite similar physical activity level, cardiorespiratory fitness and muscle fitness in children with LQTS were lower than in healthy controls. The origin of this limitation seemed to be multifactorial, involving beta-blocker induced chronotropic limitation, physical and muscle deconditioning. Cardiovascular rehabilitation could be of interest in children with LQTS with significant physical limitation.
+
+![A graphical overview of the study (french).](featured.png){fig-alt=""}

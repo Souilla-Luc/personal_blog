@@ -1,0 +1,33 @@
+---
+title: "Cardiopulmonary Fitness and Physical Activity Among Children and Adolescents With Inherited Cardiac Disease"
+author: 
+- name: Luc Souilla
+  orcid: 0000-0002-5773-1440
+- Oscar Werner
+- Helena Huguet
+- Pascal Amedro
+- QUALIMYORYTHM Study Group
+date: '2025-02-25'
+slug: tbi-definitions
+image: featured.png
+categories:
+  - Pediatrics 
+  - Physical fitness
+  - Heart diseases
+description: 'JAMA Network Open'
+subtitle: To evaluate cardiopulmonary fitness and physical activity among children with inherited cardiac disease and identify the factors associated with maximum oxygen uptake (V̇o2max) in this population.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830581
+---
+
+## Abstract
+
+**Question: ** What are the levels of cardiopulmonary fitness among children and adolescents with inherited cardiac disease compared with healthy controls and the factors associated with maximum oxygen uptake (V̇o2max) in young patients?
+
+**Findings: ** This cross-sectional study with 207 participants showed lower levels of cardiopulmonary fitness among youths with inherited cardiac disease. The multivariable model explained 80% of V̇o2max, including clinical, functional, sociodemographic, and behavioral parameters.
+
+**Meaning: ** This study suggests that assessing cardiopulmonary fitness among children with inherited cardiac disease can be incorporated into the shared decision-making process for sports participation and may help identify eligible patients for early preventive cardiac rehabilitation programs.
+
+![A graphical overview of the study (french)](featured.png){fig-alt=""}
