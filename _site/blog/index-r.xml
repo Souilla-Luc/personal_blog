@@ -6,44 +6,13 @@
       version="2.0">
 <channel>
 <title>Luc Souilla</title>
-<link>https://luc-souilla.netlify.app/blog/#category=R</link>
-<atom:link href="https://luc-souilla.netlify.app/blog/index-r.xml" rel="self" type="application/rss+xml"/>
+<link>https://boisterous-entremet-341b77.netlify.app/blog/#category=R</link>
+<atom:link href="https://boisterous-entremet-341b77.netlify.app/blog/index-r.xml" rel="self" type="application/rss+xml"/>
 <description>This is my blog where I aim to bridge the gap between scientific findings and the wider community.&lt;br&gt;
-Most of the time, you&#39;ll find visual explanations, accessible summaries, and articles —created both as a reference for my future self and (hopefully) as a helpful resource for you too.&lt;br&gt;&lt;br&gt;
+Most of the time, you&#39;ll find visual explanations, accessible summaries, and articles —created both as a reference for my future self and &lt;br&gt; (hopefully) as a helpful resource for you too.&lt;br&gt;&lt;br&gt;
 {{&lt; fa envelope &gt;}} Sign up for my [newsletter](/contact.html#buttondown) to receive updates about new posts.
 </description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Tue, 17 Dec 2024 05:00:00 GMT</lastBuildDate>
-<item>
-  <title></title>
-  <dc:creator>Silvia Canelón</dc:creator>
-  <link>https://luc-souilla.netlify.app/blog/2024-12-17-causality-311/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>R</category>
-  <category>tutorial</category>
-  <category>greenspace</category>
-  <category>maps</category>
-  <category>rspatial</category>
-  <category>sf</category>
-  <category>mapview</category>
-  <guid>https://luc-souilla.netlify.app/blog/2024-12-17-causality-311/</guid>
-  <pubDate>Tue, 17 Dec 2024 05:00:00 GMT</pubDate>
-  <media:content url="https://luc-souilla.netlify.app/blog/2024-12-17-causality-311/featured.png" medium="image" type="image/png" height="75" width="144"/>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Silvia Canelón</dc:creator>
-  <link>https://luc-souilla.netlify.app/blog/2024-12-21-gentrification-311/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>R</category>
-  <category>tutorial</category>
-  <category>maps</category>
-  <category>rspatial</category>
-  <category>sf</category>
-  <category>mapview</category>
-  <category>rdeck</category>
-  <guid>https://luc-souilla.netlify.app/blog/2024-12-21-gentrification-311/</guid>
-  <pubDate>Tue, 17 Dec 2024 05:00:00 GMT</pubDate>
-</item>
+<lastBuildDate>Sun, 08 Jun 2025 19:35:54 GMT</lastBuildDate>
 </channel>
 </rss>

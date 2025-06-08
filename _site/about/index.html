@@ -89,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-title','listing-subtitle','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: [],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -474,22 +474,7 @@ window.Quarto = {
 <h4 data-anchor-id="blog">Blog</h4>
 <div id="listing-blog" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-1">
-<div class="g-col-1" data-index="0" data-categories="UiUyQ3R1dG9yaWFsJTJDZ3JlZW5zcGFjZSUyQ21hcHMlMkNyc3BhdGlhbCUyQ3NmJTJDbWFwdmlldw==" data-listing-date-sort="1734411600000" data-listing-file-modified-sort="1740947433000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="257">
-<a href="../blog/2024-12-17-causality-311/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../blog/2024-12-17-causality-311/featured.png" class="thumbnail-image card-img" style="height: 200;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Exploring causality in 311 calls
-</h5>
-<div class="card-subtitle listing-subtitle">
-<p>Using causal inference methodology to explore the relationship between X and Y.</p>
-</div>
-</div>
-</div></a>
-</div>
+
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
@@ -628,7 +613,7 @@ Interactive tool that enables NICAR 2025 attendees to create a calendar file (.i
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/luc-souilla\.netlify\.app\/");
+        var filterRegex = new RegExp("https:\/\/boisterous-entremet-341b77\.netlify\.app");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
