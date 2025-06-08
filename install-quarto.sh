@@ -1,24 +1,21 @@
 #!/bin/bash
 set -e
 
-echo "Installing Quarto without sudo..."
+echo "Installing Quarto (tar.gz method, no sudo)..."
 
 QUARTO_VERSION=1.5.47
 
-# Create a local bin directory
-mkdir -p $HOME/local/bin
+# Make a directory for local installs
+mkdir -p $HOME/local
 
-# Download and extract the .deb package
-wget https://github.com/quarto-dev/quarto-cli/releases/download/v${QUARTO_VERSION}/quarto-${QUARTO_VERSION}-linux-amd64.deb
+# Download the tar.gz release
+wget https://github.com/quarto-dev/quarto-cli/releases/download/v${QUARTO_VERSION}/quarto-${QUARTO_VERSION}-linux-amd64.tar.gz
 
-ar x quarto-${QUARTO_VERSION}-linux-amd64.deb
-tar -xJf data.tar.xz
+# Extract to local directory
+tar -xzf quarto-${QUARTO_VERSION}-linux-amd64.tar.gz -C $HOME/local
 
-# Move the Quarto binary to a known path
-mv ./usr/bin/quarto $HOME/local/bin/
+# Add to PATH
+export PATH=$HOME/local/quarto-${QUARTO_VERSION}/bin:$PATH
 
-# Update PATH
-export PATH=$HOME/local/bin:$PATH
-
-# Test
+# Test Quarto
 quarto --version
