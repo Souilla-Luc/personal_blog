@@ -2,7 +2,7 @@
 title: "Publications" 
 description: |
   This is home for my research publications, linked with<br>
-  accompanying preprints, abstracts and/or infographics.
+  accompanying abstracts and/or infographics.
 listing: 
   contents: 
     - "**/index.qmd"
