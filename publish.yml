@@ -1,0 +1,4 @@
+- source: _site
+  netlify:
+    - id: 23b09a19-024f-41d3-a9bd-dad39b5101a8
+      url: 'https://luc-souilla.netlify.app'
