@@ -6,10 +6,6 @@
     ]
   },
   {
-    "listing": "/blog/index.html",
-    "items": []
-  },
-  {
     "listing": "/publication/index.html",
     "items": [
       "/publication/2025-03-01-jama-Qualimyorythm/index.html",
@@ -37,5 +33,9 @@
       "/publication/2021-07-29-qolbmc-Qualimyorythm study protocol/index.html",
       "/project/2025-02-28-NICAR-calendar/index.html"
     ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": []
   }
 ]
