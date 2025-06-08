@@ -1,8 +1,8 @@
 ---
-title: "Meeting People Where They R"
+title: "Bringing science to the community"
 description: |
-  This is my blog where I practice sharing my curiosity about R.<br>
-  It includes notes and tutorials for my future self and hopefully also for you.<br><br>
+  This is my blog where I aim to bridge the gap between scientific findings and the wider community.<br>
+  Most of the time, you'll find visual explanations, accessible summaries, and articles —created both as a reference for my future self and <br> (hopefully) as a helpful resource for you too.<br><br>
   {{< fa envelope >}} Sign up for my [newsletter](/contact.html#buttondown) to receive updates about new posts.
 listing: 
   contents: 
