@@ -1,8 +1,8 @@
-# Personal website for<br>Luc Souilla <a href='https://silvia.rbind.io'><img src="https://github.com/spcanelon/silvia/assets/49913337/d9aa4577-983e-4423-932d-9836bf60c4f4" align="right" height="180"/></a>
+# Personal website for<br>Luc Souilla <a href='https://luc-souilla.netlify.app/'><img src="https://github.com/spcanelon/silvia/assets/49913337/d9aa4577-983e-4423-932d-9836bf60c4f4" align="right" height="180"/></a>
 
-👋 Hello, and welcome to the repo for [my personal website](https://silvia.rbind.io)!
+👋 Hello, and welcome to the repo for [my personal website](https://luc-souilla.netlify.app/)!
 
-This version was made using [Quarto](https://quarto.org/) and inspired by the [Hugo Apéro theme](https://hugo-apero-docs.netlify.app/).
+This version was made using [Quarto](https://quarto.org/) and inspired by the [Hugo Apéro theme](https://hugo-apero-docs.netlify.app/) and from the public repository of [Silvia Canelón](https://github.com/spcanelon/silvia).
 
 I keep this repository public so that people can repo-dive and learn how to recreate what they like for their own site. This is how I learned! 🙌
 

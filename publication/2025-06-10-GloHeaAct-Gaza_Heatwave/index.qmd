@@ -1,0 +1,34 @@
+---
+title: "The escalating health crisis in Gaza amidst armed conflict and heatwaves"
+author: 
+- name: Luc Souilla
+  orcid: 0000-0002-5773-1440
+- Amira Shaheen
+- Amira N. Mostafa 
+- Samer Abuzerr
+date: '2025-06-10'
+slug: tbi-definitions
+image: featured.png
+categories:
+  - Gaza
+  - Conflict
+  - Heatwave
+  - Heat exposure
+  - Public Health
+description: 'Global Health Action'
+subtitle: This article explores the synergistic effects of heatwaves and conflict on population health in Gaza, emphasizing how environmental vulnerability and systemic fragility intersect with increasing human suffering. It calls for urgent, coordinated public health interventions to address this escalating crisis.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1080/16549716.2025.2513856
+---
+
+## Paper Summary
+
+**Main findings: ** Rising temperatures in Gaza, worsened by climate change and conflict, can significantly increase heat-related health risks, especially among vulnerable populations.
+
+**Added knowledge: ** This article emphasizes how the interplay of environmental degradation, violence, and a collapsing healthcare system amplifies the threat of extreme heat in Gaza.
+
+**Global health impacts for policy and action: ** Immediate preventive measures and long-term strategies are essential to mitigate these risks and enhance a region’s resilience to extreme heat.
+
+![A graphical overview of the study](featured.png){fig-alt=""}

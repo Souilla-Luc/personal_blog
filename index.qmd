@@ -3,7 +3,7 @@ title: "Luc Souilla, PhD"
 pagetitle: "Luc Souilla, PhD"
 subtitle: "Post-Doctoral Researcher"
 image: assets/luc/img/avatar.png
-image-alt: "Abstract data visualization depicting tall buildings in Philadelphia as a circle. The text inside the circle reads Philadelphia Skyline"
+image-alt: "Abstract avatar"
 
 about:
   template: solana
@@ -31,9 +31,9 @@ resources:
 <br><br>
 
 ::: {#hero-heading}
-\I am a researcher in **environmental physiology** with a strong commitment to addressing **climate change** and its impact on human health. My research explores how the human body—especially in vulnerable populations—responds to heat exposure and extreme temperatures.
+I am a researcher in **environmental physiology** with a strong commitment to addressing **climate change** and its impact on human health. My research explores how the human body—especially in vulnerable populations—responds to heat exposure and extreme temperatures.
 
-Beyond the lab, I’m passionate about **science communication and data accessibility**. Through my blog, I simplify complex scientific articles on climate and health for the general public, aiming to make research **clear, visual, and actionable**.
+Beyond the lab, I’m passionate about **science communication and data accessibility**. Through my blog, I simplify scientific articles on climate and health for the general public, aiming to make research **clear, visual, and actionable**.
 
 [Learn more about me →](/about){.about-links .subtitle}
 :::
