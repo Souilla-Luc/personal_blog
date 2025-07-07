@@ -14,7 +14,7 @@ description: ''
 links:
 - icon: book-open
   name: Access App
-  url: https://luc-souilla.shinyapps.io/Body_Temp_App/
+  url: https://luc-souilla.shinyapps.io/core-temp-app/
 - icon: github
   name: Source code
   url: https://github.com/Souilla-Luc/Core_Temp_App
@@ -24,7 +24,7 @@ links:
 
 ## Purpose of the Core Temp App
 
-[The Core Temp App](https://luc-souilla.shinyapps.io/Body_Temp_App/) is designed for researchers (e.g., physiologists) and health professionals using [Body Cap](https://www.bodycap-medical.com/e-celsius-performance-body-temperature-monitoring-telemetric-pill/) pills to monitor body core temperature. This tool is particularly useful for analyzing temperature data across different conditions (e.g., hot vs. neutral environments) and/or time periods (e.g., baseline – exercise – recovery).
+[The Core Temp App](https://luc-souilla.shinyapps.io/core-temp-app/) is designed for researchers (e.g., physiologists) and health professionals using [Body Cap](https://www.bodycap-medical.com/e-celsius-performance-body-temperature-monitoring-telemetric-pill/) pills to monitor body core temperature. This tool is particularly useful for analyzing temperature data across different conditions (e.g., hot vs. neutral environments) and/or time periods (e.g., baseline – exercise – recovery).
 
 ## How Does It Work?
 
