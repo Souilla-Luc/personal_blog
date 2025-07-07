@@ -9,7 +9,7 @@
 <meta name="author" content="Luc Souilla">
 <meta name="dcterms.date" content="2025-07-07">
 
-<title>Body Temperature App – Luc Souilla</title>
+<title>Core Temperature App – Luc Souilla</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -51,6 +51,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
+<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -291,8 +294,8 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns">
 <div id="title-block-header-title" class="quarto-title page-columns page-full page-layout-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);">
-<h1 class="title">Body Temperature App</h1>
-<p class="subtitle lead">Interactive tool that enables physiologist to filter, analyze and export data from <a href="https://www.bodycap-medical.com/e-celsius-performance-body-temperature-monitoring-telemetric-pill/">Body Cap</a> pills to measure body core temperature.</p>
+<h1 class="title">Core Temperature App</h1>
+<p class="subtitle lead">Interactive tool that enables physiologist to filter, analyze and export data from <a href="https://www.bodycap-medical.com/e-celsius-performance-body-temperature-monitoring-telemetric-pill/">Body Cap</a> pills used to measure core body temperature.</p>
     <div class="quarto-categories">
         <div class="quarto-category">R</div>
         <div class="quarto-category">shiny</div>
@@ -325,7 +328,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="mt-4 d-flex flex-row flex-wrap gap-1 justify-content-left justify-content-sm-start" role="group" aria-label="Links">
-<a href="https://luc-souilla.shinyapps.io/Body_Temp_App/" class="btn btn-secondary text-capitalize"><i class="bi bi-book-open me-1"></i> website</a>
+<a href="https://luc-souilla.shinyapps.io/Body_Temp_App/" class="btn btn-secondary text-capitalize"><i class="bi bi-book-open me-1"></i> Access App</a>
 <a href="https://github.com/Souilla-Luc/Core_Temp_App" class="btn btn-secondary text-capitalize"><i class="bi bi-github me-1"></i> Source code</a>
 </div>
 
@@ -337,8 +340,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#purpose-of-core-temp-app" id="toc-purpose-of-core-temp-app" class="nav-link active" data-scroll-target="#purpose-of-core-temp-app">Purpose of Core Temp App</a></li>
-  <li><a href="#how-it-works" id="toc-how-it-works" class="nav-link" data-scroll-target="#how-it-works">How it works?</a></li>
+  <li><a href="#purpose-of-the-core-temp-app" id="toc-purpose-of-the-core-temp-app" class="nav-link active" data-scroll-target="#purpose-of-the-core-temp-app">Purpose of the Core Temp App</a></li>
+  <li><a href="#how-does-it-work" id="toc-how-does-it-work" class="nav-link" data-scroll-target="#how-does-it-work">How Does It Work?</a></li>
   </ul>
 </nav>
     </div>
@@ -356,21 +359,40 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="purpose-of-core-temp-app" class="level2">
-<h2 class="anchored" data-anchor-id="purpose-of-core-temp-app">Purpose of Core Temp App</h2>
-<p><a href="https://luc-souilla.shinyapps.io/Body_Temp_App/">The Core Temp App</a> has been designed for researchers (e.g., physiologist) and health professionals using <a href="https://www.bodycap-medical.com/e-celsius-performance-body-temperature-monitoring-telemetric-pill/">Body Cap</a> pills to measure the body core temperature. Ideally, this app is useful when researcher want to analyse body temperature in different conditions (hot vs neutral) and/or different period of time (baseline - exercise - rest).</p>
+<section id="purpose-of-the-core-temp-app" class="level2">
+<h2 class="anchored" data-anchor-id="purpose-of-the-core-temp-app">Purpose of the Core Temp App</h2>
+<p><a href="https://luc-souilla.shinyapps.io/Body_Temp_App/">The Core Temp App</a> is designed for researchers (e.g., physiologists) and health professionals using <a href="https://www.bodycap-medical.com/e-celsius-performance-body-temperature-monitoring-telemetric-pill/">Body Cap</a> pills to monitor body core temperature. This tool is particularly useful for analyzing temperature data across different conditions (e.g., hot vs.&nbsp;neutral environments) and/or time periods (e.g., baseline – exercise – recovery).</p>
 </section>
-<section id="how-it-works" class="level2">
-<h2 class="anchored" data-anchor-id="how-it-works">How it works?</h2>
-<p>At this stage, only csv. file generated by Body Cap software are supported by this shiny app. This app is built with four different stage allows user to upload data and choose pills (1), then (2) set period of time of interest, (3) visually analyze each period to detect anay anomalies (4) export data in tsv file to have mean, sd and number of measurement between filter and analyze data according to their needs. Finally, you can download a tsv file where mean, sd and number of measurement at each different period set will be calculated.</p>
-<p><img src="page3.png" class="img-fluid" alt="Exemple of visualization">{fig-alt=“Data visualization of core temperature between different period}</p>
+<section id="how-does-it-work" class="level2">
+<h2 class="anchored" data-anchor-id="how-does-it-work">How Does It Work?</h2>
+<p>Currently, only <code>.csv</code> files generated by the Body Cap software are supported. The app follows a four-step process:</p>
+<ol type="1">
+<li><strong>Upload &amp; Select Pills</strong> – Upload your data and choose which pill(s) to analyze.<br>
+</li>
+<li><strong>Set Time Periods</strong> – Define time intervals of interest (e.g., baseline, exercise, rest).<br>
+</li>
+<li><strong>Visual Inspection</strong> – Explore plots to identify anomalies or missing data.<br>
+</li>
+<li><strong>Export Summary</strong> – Download a <code>.tsv</code> file containing the mean, standard deviation (SD), and number of measurements for each selected period.</li>
+</ol>
+<p>This workflow allows users to efficiently filter, analyze, and summarize temperature data.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="page3.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Data visualization of core temperature across different periods"><img src="page3.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Data visualization of core temperature between different periods"></a></p>
+</figure>
+</div>
+<figcaption>Data visualization of core temperature across different periods</figcaption>
+</figure>
+</div>
 <p>This is my first time building a Shiny app and I opted to host on shinyapps.io. I have my fingers crossed that the free tier will be enough to handle the traffic! 🤞</p>
 
 
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-souilla2025" class="csl-entry quarto-appendix-citeas" role="listitem">
-Souilla, Luc. 2025. <span>“Body Temperature App.”</span> July 7, 2025.
+Souilla, Luc. 2025. <span>“Core Temperature App.”</span> July 7, 2025.
 <a href="https://luc-souilla.netlify.app/project/Core_temp_App_07-07-2025/">https://luc-souilla.netlify.app/project/Core_temp_App_07-07-2025/</a>.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -818,6 +840,38 @@ Souilla, Luc. 2025. <span>“Body Temperature App.”</span> July 7, 2025.
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
