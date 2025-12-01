@@ -1,0 +1,36 @@
+---
+title: "Fight fire with fire: is heating rather than cooling the key to muscle recovery?"
+author: 
+- Amine Dahhak
+- Nicolas Pamart
+- Antoine Bouvard
+- David Van Morckhoven
+- Philippe St-Martin
+- name: Luc Souilla
+  orcid: 0000-0002-5773-1440
+- Deshayes Thomas
+
+date: '2025-08-10'
+slug: tbi-definitions
+image: featured.png
+categories:
+  - Heat Therapy
+  - Muscle recovery
+  - Physiology
+description: 'The Journal of Physiology'
+subtitle: Heat therapy for muscle recovery 
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1113/JP289384
+---
+
+
+## Objective
+In this Journal Club article, we discuss the findings of [Dablainville et al. (2025)](https://doi.org/10.1113/JP287777), recently published in The Journal of Physiology, which provide the first randomized controlled in vivo human comparison of cold- and hot-water immersion on skeletal muscle recovery post-injury. We further examine the broader implications for muscle health and how it opens new avenues for clinical translation (e.g. therapeutic heat use).
+
+## Paper Conclusion
+
+The observations made by Dablainville et al. (2025) are not only the first to question the long-standing assumption that cold is beneficial for muscle recovery but also provide the first in-vivo human evidence that passive hot-, not cold-immersion positively modulates inflammatory molecular pathways after a muscle injury. Such observations pave the way for studying heat-based interventions in contexts such as ageing, injury rehabilitation, spaceflight countermeasures and clinical conditions marked by musculoskeletal decline, where preventing muscle atrophy is especially critical. Their study also set the stage for future research to determine the optimal conditions under which heat therapy can translate molecular benefits into functional gains over long-term periods.
+
+![](featured.png){fig-alt=""}
