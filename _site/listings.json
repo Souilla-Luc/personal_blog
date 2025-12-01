@@ -22,6 +22,7 @@
   {
     "listing": "/publication/index.html",
     "items": [
+      "/publication/2025-08-10-JPhysiol-HeatMuscleRecovery/index.html",
       "/publication/2025-06-10-GloHeaAct-Gaza_Heatwave/index.html",
       "/publication/2025-03-01-jama-Qualimyorythm/index.html",
       "/publication/2024-07-12-bmcssmr-rehabQTLong/index.html",
@@ -37,7 +38,9 @@
   {
     "listing": "/project/index.html",
     "items": [
-      "/project/Core_temp_App_07-07-2025/index.html"
+      "/project/07-07-2025_Core_temp_App/index.html",
+      "/project/01-09-2023_LessonClim_Change_Sport/index.html",
+      "/project/07-05-2021_CPET_Report_App/index.html"
     ]
   }
 ]

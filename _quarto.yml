@@ -59,6 +59,8 @@ format:
         - cosmo
         - assets/luc-theme-dark.scss
         - assets/luc/colors-dark.scss
+    css:
+      - assets/custom-logo.css # made to increase size of the logo
     highlight-style:
       light: assets/luc/a11y-light.theme
       dark: assets/luc/a11y-dark.theme
