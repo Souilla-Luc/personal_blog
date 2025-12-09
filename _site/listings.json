@@ -6,6 +6,7 @@
   {
     "listing": "/about/index.html",
     "items": [
+      "/publication/2025-08-10-JPhysiol-HeatMuscleRecovery/index.html",
       "/publication/2025-06-10-GloHeaAct-Gaza_Heatwave/index.html",
       "/publication/2025-03-01-jama-Qualimyorythm/index.html",
       "/publication/2024-07-12-bmcssmr-rehabQTLong/index.html",
@@ -16,7 +17,9 @@
       "/publication/2023-02-21-eurprevcardio-normsVO2/index.html",
       "/publication/2023-01-10-frontierscvd-longQT-children-crfPa/index.html",
       "/publication/2021-07-29-qolbmc-Qualimyorythm study protocol/index.html",
-      "/project/Core_temp_App_07-07-2025/index.html"
+      "/project/07-07-2025_Core_temp_App/index.html",
+      "/project/01-09-2023_LessonClim_Change_Sport/index.html",
+      "/project/07-05-2021_CPET_Report_App/index.html"
     ]
   },
   {
@@ -38,8 +41,9 @@
   {
     "listing": "/project/index.html",
     "items": [
+      "/project/09-12-2025_HEATINN_Project/index.html",
       "/project/07-07-2025_Core_temp_App/index.html",
-      "/project/01-09-2023_LessonClim_Change_Sport/index.html",
+      "/project/01-09-2023_LessonClim_Change_Sport copy/index.html",
       "/project/07-05-2021_CPET_Report_App/index.html"
     ]
   }

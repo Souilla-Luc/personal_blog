@@ -70,9 +70,8 @@ resources:
 About me
 :::
 
-Driven by a strong commitment to tackling **climate change**, the most pressing issue for all living species, I am focused on understanding **how the human body will respond** to these environmental challenges in the decades ahead.
-I am a post-doctoral researcher at the [Human Integrative environmental physiology lab](https://centreepic.org/recherche/) (Montreal Heart Institute) and I am also affiliated to the Department of Kinesiology and Physical activity Sciences at the University of Montreal. 
-My research focuses on **how vulnerable populations physiologically and perceptually react to heat exposure**, utilizing home-based monitoring and environmental simulations in a chamber.
+
+Driven by a deep personal commitment to mitigate and adapt to **climate change**, I am dedicated to exploring  **how the human body will respond** to these environmental challenges in the coming decades. I am a postdoctoral researcher at the Montreal Heart Institute in the laboratory of [Human Integrative environmental physiology lab](https://centreepic.org/recherche/) under the guidance of Pr.Daniel Gagnon. I am also affiliated to the Department of Kinesiology and Physical activity Sciences at the University of Montreal.  My research investigates **how vulnerable populations physiologically and perceptually react to heat exposure**, utilizing home-based monitoring and lab-based protocol using heat simulations in a climatic chamber.
 
 Learn more about my research interests in [publications](/publication).
 
@@ -85,7 +84,7 @@ Get in touch by [sending me a note](/contact.qmd)! {{< fa feather-pointed >}}
 ::: {#about-me-1 .g-col-6}
 **From exercise physiologist to research** <span style="font-size: 1.1em;">🔍</span>
 
-From the tender days of my childhood, the world of competitive sports was my playground, often overshadowing my academic pursuits. When I started at the sports science university in Toulouse, France, in 2016, it was the first time I engaged with my studies at such a deep level. 
+When I began my studies at the sports science university in Toulouse, France, in 2016, it marked the first time my academic pursuits took precedence over my ambitions in competitive sports. I gained insights into how my body regulates itself during an effort and learned to optimize it for peak performance. Most importantly, I discovered how physical activty can help others to lead healthier and happier lives.
 
 By 2019, I had graduated as an exercise physiologist and was eager to explore the connection between physical activity and health benefits. Through various internships and summer jobs, my interest in research grew, particularly in understanding complex mechanisms and interactions, as well as evaluating how different exercise programs can yield various physiological effects. This led me to pursue, a research master’s degree focused on exercise rehabilitation and health benefits at the University of Montpellier. 
 
@@ -98,13 +97,13 @@ In 2021, I received a PhD scholarship to continue exploring this research questi
 
 **So, what about climate change then? <span style="font-size: 18px;">🌍</span>**
 
-When I started university, I became more aware of the challenges posed by climate change and realized how crucial it was for the younger generation to channel their energy into action. Beginning my research during my master 's was a perfect opportunity to delve deeper into this interest. I learned how science is built on evidence and high-quality methodology, and I also saw how experts sounded an alarm on this issue. 
+Upon entering university, I became increasingly conscious of the challenges that climate change presents and recognized the vital role the younger generation must play in taking action. Embarking on my research during my master's program offered an excellent chance to investigate this issue more thoroughly. I came to understand that science is founded on evidence and rigorous methodology, which led me to question why experts express such alarm over the climate crisis we are currently experiencing. 
 
-During my PhD, I collaborated with researchers to explore how global warming could threaten health, particularly the cardiovascular system, in children with heart diseases. I also took personal steps like eating locally, not flying, gardening, calculating my personal carbon footprint, and participating in community awareness workshops and associations. By the end of my PhD, I made perfect sense to shift my research focus slightly towards climate issues as I continued my academic journey. 
+During my PhD, I collaborated with researchers to investigate how global warming might pose a threat to health, particularly affecting the cardiovascular system in children with heart diseases. By the end of my PhD, it became clear that shifting my research focus towards the detrimental impacts of climate change on human health was a logical step as I continued my academic journey. I also took personal actions such as eating locally, avoiding air travel, gardening, calculating my personal carbon footprint, and participating in community awareness workshops and associations.
 
-I was fortunate to start a postdoc position at the Montreal Heart Institute, where I studied how the human body reacts to heat exposure, an increasingly relevant topic given the current and future scenarios of global warming. Building on my PhD work, I aim to investigate how vulnerable groups such as children can face the challenges imposed by global warming and to understand the relationship between physical activity, fitness, and environmental challenges.
+I was fortunate to start a postdoc position at the Montreal Heart Institute, where I studied how the human body reacts to heat exposure, an increasingly relevant topic given the current and future scenarios of global warming. Building on my PhD work, I aim to investigate how vulnerable groups such as children can face the challenges imposed by global warming.
 
-For years, I have been engaged in teaching students and sharing scientific results with the broader community, making complex scientific findings more accessible. Check my [blog](/blog), where I present visual and text summaries in plain language on environmental challenges related to climate change, human body adaptive responses, and health issues.
+For years, I have been engaged in teaching students and sharing scientific results with the broader community, making complex scientific findings more accessible. Check my [blog](/blog), where I present visual and text summaries in plain language on environmental challenges related to climate change, human body responses, and health issues.
 
 
 </ul>

@@ -31,9 +31,10 @@ resources:
 <br><br>
 
 ::: {#hero-heading}
-I am a researcher in **environmental physiology** with a strong commitment to addressing **climate change** and its impact on human health. My research explores how the human body—especially in vulnerable populations—responds to heat exposure and extreme temperatures.
 
-Beyond the lab, I’m passionate about **science communication and data accessibility**. Through my blog, I simplify scientific articles on climate and health for the general public, aiming to make research **clear, visual, and actionable**.
+I am a researcher in **environmental physiology** with a strong commitment to assessing the impacts of **climate change** on human health. My research explores how the human body responds to heat exposure and extreme temperatures, as well as potential heat adaptation strategies to ensure livability for future generations.  
+
+Beyond the lab, I’m passionate about **science communication and popularization**. Through my blog, I simplify scientific articles and methods used in the field of climate and health for both researchers and the general public, aiming to make research **clear, visual, and actionable**.
 
 [Learn more about me →](/about){.about-links .subtitle}
 :::

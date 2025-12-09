@@ -1,0 +1,41 @@
+---
+title: "Heat'IN Project"
+author: Luc Souilla
+date: 2025-12-09
+slug: HeatIN-2025
+image: featured.png
+categories:
+  - Research Project
+  - Indoor threshold
+  - Older adults 
+  - Social housing
+subtitle: "Deriving indoor heat-health relationships from remote physiological and behavioural monitoring of older adults living in social housing"
+description: ''
+links:
+- icon: book-open
+  name: Access Protocol here
+  url: https://osf.io/zn8qe/overview
+---
+
+
+## Introduction  & Objectives
+A direct consequence of climate change is the occurrence of extreme heat events, which are becoming increasingly frequent and intense. Extreme heat pose a a threat to human health. Since extreme heat events will continue to intensify in the coming years, it is essential to understand how heat affects human health to minimize its consequences.
+
+Most studies conducted so far have focused on outdoor temperatures or controlled environments that do not accurately represent daily life, such as laboratory studies.  Indoor temperatures can vary significantly from outdoor temperatures owing to multiple factors, including building characteristics, time of day, and the presence of air conditioning systems. Therefore, monitoring behavioral and bodily responses to rising indoor temperatures offers a more realistic and representative approach to daily life. This method allows for a more precise assessment of the effects of heat on health and quality of life.
+
+The objective of this study is to identify an indoor temperature threshold at which behavioral and bodily responses are affected during hot weather. The results will help to: 
+
+- establish a link between indoor heat and associated health risks by monitoring physiological and behavioral variables; 
+- better understand how humidity, housing characteristics, and personal factors contribute to increased health risks;
+- recommend strategies to minimize health risks associated with heat exposure.
+
+![](featured.png){fig-align="center"}
+
+## Methodology
+
+In this project, we deploy HeatSuiteTM units (see article [here](https://www.nature.com/articles/s41746-025-01608-z)), a highly effective and comprehensive data-governed multimodal sensor platform. This platform includes a node designed to remotely collect at 1-minute intervals indoor environmental conditions, such as temperature, humidity, airflow, and air quality, along with the daily physiological and behavioral responses of 120 adults aged 50 years and older who reside in social housing units managed by the Office municipal d’habitation de Montréal (Fig 1).
+
+![**Figure 1.** Summary of daily tasks to be performed during the monitoring period. The data displayed on the smartwatch are collected continuously and automatically when worn. Participants are required to measure blood pressure, oral temperature, complete questionnaires, and record body weight using the provided materials. All data from the smartwatch are synchronized with the environmental monitoring sensor and sent to our companion cloud server.](Fig1.png){fig-align="center"}
+
+Data collection started during summer 2025 and will be repeated June 1st to September 30th in 2026 and 2027, to attain a total of more than 40,000 data points per outcome. To ensure data governance, all data will be transmitted to a secure, encrypted database, and the research team will use a password-protected dashboard to record and analyse the data.
+This project is funded by Health Canada within the program HeatADAPT.
