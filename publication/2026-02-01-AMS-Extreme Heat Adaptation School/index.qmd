@@ -1,0 +1,39 @@
+---
+title: "Hot Topics: Building Capacity for Extreme Heat Adaptation Through Transdisciplinary Training "
+author: 
+- Jennifer K.Vanos
+- Melissa Guardaro
+- Ariane Middel
+- Nicholas Ravanelli
+- ...
+- name: Luc Souilla
+  orcid: 0000-0002-5773-1440
+- ...,
+- Yousra Ouazaa
+- Daniel Gagnon
+
+date: '2026-01-06'
+slug: tbi-definitions
+image: featured.png
+categories:
+  - Heat adaptation
+  - Meeting report
+  - Knowledge transfer
+description: 'American Meteorological Society'
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1175/BAMS-D-25-0341.1
+---
+
+
+## Objective
+The Global School on Heat Adaptation is a week-long workshop-style educational opportunity focused on transdisciplinary learning and training of the next generation of heat and health researchers and practitioners to address the growing challenges of extreme heat. The school comprised 24 international graduate students and was guided by the in-depth participation of 13 researchers and partners. In total, 10 countries and 15 disciplines were represented. Topics ranged from active learning sessions focused on physiological responses at the microscale, to personal-level heat exposures and behaviours, up to neighborhood-, city-, and county-level actions. Activities hosted throughout the week integrated elements of policy, climate variability and change, cultural contexts, and the built environment.
+
+## Paper Conclusion
+
+"In summary, the inaugural Global School on Heat Adaptation brought together a diverse group of graduate students, researchers, practitioners, and stakeholders from across the world to engage in collaborative learning of the complex and multifaceted challenges posed by extreme heat.
+Through active, multiscale learning—from physiological responses to community-level actions—the program connected science, policy, climate change, culture, and the built environment to advance holistic approaches to extreme heat adaptation. Designed to train the
+next generation of heat and health researchers and practitioners, this initiative provides a concrete example of breaking down silos to integrate the multiple disciplines, sectors, and perspectives needed to identify and mobilize effective strategies to minimize the wide-ranging impacts of extreme heat on human health, well-being, and performance."
+
+![](featured.png){fig-alt=""}
