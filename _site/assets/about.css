@@ -31,6 +31,40 @@
   border-radius: 5px;
 }
 
+
+#blog .card-body,
+#publication .card-body,
+#project .card-body {
+  min-height: 150px !important;
+  height: auto !important;
+  flex-grow: 1 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+  padding: 1rem !important;
+}
+
+/* Force la hauteur totale de la carte */
+#blog .card,
+#publication .card,
+#project .card {
+  height: 400px !important;
+  min-height: 400px !important;
+  max-height: 400px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  overflow: hidden !important;
+}
+
+/* Les images restent fixes */
+#blog .card-img-top,
+#publication .card-img-top,
+#project .card-img-top {
+  height: 250px !important;
+  flex-shrink: 0 !important;
+}
+
+
 /* mobile query up for screens up to ~992px wide */
 @media screen and (max-width: 991.98px) {
   /* wrap lately section */

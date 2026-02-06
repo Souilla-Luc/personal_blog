@@ -24,26 +24,28 @@ listing:
     - "../blog/*/index.markdown"
   sort: date desc
   type: grid
-  grid-columns: 1
+  grid-columns: 1               
+  grid-item-align: center
   categories: false
   sort-ui: false
   filter-ui: false
-  fields: [title, subtitle, image]
+  fields: [title, image]
   max-items: 1
-  image-height: "200"
+  image-height: 250px
 - id: publication
   contents: 
     - "../publication/*/index.qmd"
     - "../publication/*/index.markdown"
   sort: date desc
   type: grid
-  grid-columns: 1
+  grid-columns: 1                # ← Ajouté
+  grid-item-align: center
   categories: false
   sort-ui: false
   filter-ui: false
   fields: [title, image]
   max-items: 1
-  image-height: "200"
+  image-height: 250px
   image-placeholder: ../publication/featured.jpg
 - id: project
   contents: 
@@ -51,13 +53,14 @@ listing:
     - "../project/*/index.markdown"
   sort: date desc
   type: grid
-  grid-columns: 1
+  grid-columns: 1               # ← Ajouté
+  grid-item-align: center
   categories: false
   sort-ui: false
   filter-ui: false
-  fields: [title, subtitle, image]
+  fields: [title, image]
   max-items: 1
-  image-height: "200"
+  image-height: 250px
 format: 
   html: 
     page-layout: full

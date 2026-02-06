@@ -22,8 +22,9 @@ resources:
 
 You can use this form to contact me about speaking engagements for climate change and science, research collaborations, or suggest any relevant article to integrate in my blog section.
 
-<a class="link-dark me-1" href="https://github.com/Souilla-Luc" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
-<a class="link-dark me-1" href="https://orcid.org/0000-0003-1709-1394" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
+<a class="link-dark me-1" href="https://github.com/Souilla-Luc" title="Github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
+<a class="link-dark me-1" href="https://orcid.org/0000-0003-1709-1394" title="Orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
+<a class="link-dark me-1" href="/about/index_files/CVEnglish.pdf" title="Curriculum Vitae" target="_blank" rel="noopener">{{< fa file-pdf >}}</a>
 <!-- <a class="link-dark me-1" href="https://buttondown.com/spcanelon" title="Newsletter" target="_blank" rel="noopener">{{< fa envelope >}}</a> -->
 
 :::

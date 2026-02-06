@@ -35,8 +35,9 @@ website:
     left: >-
       &#169; 2025 Luc Souilla &#8729; Made with [Quarto](https://quarto.org)
     center: |
-      <a class="link-dark me-1" href="https://github.com/Souilla-Luc" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
-      <a class="link-dark me-1" href="https://orcid.org/0000-0002-5773-1440" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
+      <a class="link-dark me-1" href="https://github.com/Souilla-Luc" title="Github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
+      <a class="link-dark me-1" href="https://orcid.org/0000-0002-5773-1440" title="Orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
+      <a class="link-dark me-1" href="/about/index_files/CVEnglish.pdf" title="Curriculum Vitae" target="_blank" rel="noopener">{{< fa file-pdf >}}</a>
     right: 
       - text: "Contact"
         aria-label: "Contact Form"

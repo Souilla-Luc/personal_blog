@@ -1,7 +1,7 @@
 ---
 title: "Publications" 
 description: |
-  This is home for my research publications. <br> For media outreach and other professional activities, check out [**my CV**](index_files/CVEnglish.pdf){target="_blank"}.
+  This is home for my research publications. <br> For media outreach and other professional activities, check out [**my CV**](/about/index_files/CVEnglish.pdf){target="_blank"}.
 listing: 
   contents: 
     - "**/index.qmd"

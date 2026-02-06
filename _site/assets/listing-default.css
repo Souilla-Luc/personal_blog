@@ -37,5 +37,43 @@
 }
 
 .card-img {
-    border-radius: 8px 8px 0px 0px;
+  border-radius: 8px 8px 0px 0px;
+}
+
+/* Force toutes les images à la même taille avec recadrage intelligent */
+.quarto-listing-grid .card-img-top {
+  height: 250px !important;
+  min-height: 250px !important;
+  max-height: 250px !important;
+  width: 100% !important;
+  object-fit: cover !important;
+  object-position: center !important;
+  flex-shrink: 0 !important;
+}
+
+/* Uniformise la hauteur des cartes */
+.quarto-listing-grid .card {
+  height: 100% !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.quarto-listing-grid .card-body {
+  flex-grow: 1 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+}
+
+/* Uniformise les titres et sous-titres */
+.quarto-listing-grid .card-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.3;
+  margin-bottom: 0.5rem;
+}
+
+.quarto-listing-grid .card-text {
+  font-size: 0.95rem;
+  margin-bottom: 0.75rem;
 }

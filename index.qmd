@@ -15,6 +15,9 @@ about:
       href: https://github.com/Souilla-Luc
     - text: "{{< ai orcid >}}"
       href: https://orcid.org/0000-0002-5773-1440
+    - text: CV
+      href: /about/index_files/CVEnglish.pdf
+      target: _blank
 page-layout: full
 
 execute: 
