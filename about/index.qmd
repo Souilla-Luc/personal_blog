@@ -14,6 +14,9 @@ about:
       href: https://github.com/Souilla-Luc
     - text: "{{< ai orcid >}}"
       href: https://orcid.org/0000-0002-5773-1440
+    - text: CV
+      href: /about/index_files/CVEnglish.pdf
+      target: _blank
 listing: 
 - id: blog
   contents: 
@@ -71,9 +74,11 @@ About me
 :::
 
 
-Driven by a deep personal commitment to mitigate and adapt to **climate change**, I am dedicated to exploring  **how the human body will respond** to these environmental challenges in the coming decades. I am a postdoctoral researcher at the Montreal Heart Institute in the laboratory of [Human Integrative environmental physiology lab](https://centreepic.org/recherche/) under the guidance of Pr.Daniel Gagnon. I am also affiliated to the Department of Kinesiology and Physical activity Sciences at the University of Montreal.  My research investigates **how vulnerable populations physiologically and perceptually react to heat exposure**, utilizing home-based monitoring and lab-based protocol using heat simulations in a climatic chamber.
+Driven by a deep personal commitment to mitigate and adapt to **climate change**, I am dedicated to exploring  **how the human body will respond** to these environmental challenges in the coming decades. I am a postdoctoral researcher at the Montreal Heart Institute in the laboratory of [Human Integrative environmental physiology lab](https://centreepic.org/recherche/){target="_blank"} under the guidance of Pr.Daniel Gagnon. I am also affiliated to the Department of Kinesiology and Physical activity Sciences at the University of Montreal.  My research investigates **how vulnerable populations physiologically and perceptually react to heat exposure**, utilizing home-based monitoring and lab-based protocol using heat simulations in a climatic chamber.
 
 Learn more about my research interests in [publications](/publication).
+
+**Download my CV** by clicking [here](index_files/CVEnglish.pdf){target="_blank"}
 
 Get in touch by [sending me a note](/contact.qmd)! {{< fa feather-pointed >}}
 ::::
@@ -90,7 +95,7 @@ By 2019, I had graduated as an exercise physiologist and was eager to explore th
 
 By 2020, I started a one-year internship in the pediatric cardiology Department of University Hospital of Montpellier, working with children and adolescents who had inherited cardiac diseases and were disqualified from sports and restricted from physical activity to prevent cardiac events. Initially, I found this situation unjust and complicated, given how physical activity shaped my childhood. 
 
-In 2021, I received a PhD scholarship to continue exploring this research question, aiming to pave a new path for managing these children by (a) describing their concerning levels of physical activity and fitness compared to healthy children, and (b) creating a cardiac rehabilitation program tailored to each child's condition and disease status, encouraging long-term physical activity. After three years, I graduated [with a Ph.D. in 2024](https://theses.fr/s386066).
+In 2021, I received a PhD scholarship to continue exploring this research question, aiming to pave a new path for managing these children by (a) describing their concerning levels of physical activity and fitness compared to healthy children, and (b) creating a cardiac rehabilitation program tailored to each child's condition and disease status, encouraging long-term physical activity. After three years, I graduated [with a Ph.D. in 2024](https://theses.fr/s386066){target="_blank"}.
 :::
 
 ::: {#about-me-2 .g-col-6}
