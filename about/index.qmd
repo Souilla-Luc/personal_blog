@@ -83,6 +83,8 @@ Learn more about my research interests in [publications](/publication).
 
 **Download my CV** by clicking [here](index_files/CVEnglish.pdf){target="_blank"}
 
+**My Personal Carbon Footprint**:  🌱 2025: 5.45 tCO₂e (including professionnal activities)  2024: 5.56 tCO₂e (including professionnal activities) |  2023: 3.80 tCO₂e  
+
 Get in touch by [sending me a note](/contact.qmd)! {{< fa feather-pointed >}}
 ::::
 
