@@ -1,6 +1,6 @@
 ---
 title: "Luc Souilla"
-subtitle: Post-Doctoral Researcher
+subtitle: Postdoctoral Researcher
 image: sidebar/avatar.png
 image-alt: "Smiling men with glasses, brown beard, and green teeshirt"
 about:
@@ -77,7 +77,12 @@ About me
 :::
 
 
-Driven by a deep personal commitment to mitigate and adapt to **climate change**, I am dedicated to exploring  **how the human body will respond** to these environmental challenges in the coming decades. I am a postdoctoral researcher at the Montreal Heart Institute in the laboratory of [Human Integrative environmental physiology lab](https://centreepic.org/recherche/){target="_blank"} under the guidance of Pr.Daniel Gagnon. I am also affiliated to the Department of Kinesiology and Physical activity Sciences at the University of Montreal.  My research investigates **how vulnerable populations physiologically and perceptually react to heat exposure**, utilizing home-based monitoring and lab-based protocol using heat simulations in a climatic chamber.
+Driven by a deep personal commitment to mitigate and adapt to **climate change**, I am dedicated to exploring  **how the human body will respond** to these environmental challenges in the coming decades. I am a postdoctoral researcher at the Montreal Heart Institute in the laboratory of [Human Integrative environmental physiology lab](https://centreepic.org/recherche/){target="_blank"} under the guidance of Pr.Daniel Gagnon. I am also affiliated to the Department of Kinesiology and Physical activity Sciences at the University of Montreal.  My research investigates **how vulnerable populations physiologically and perceptually react to heat exposure**, utilizing home-based monitoring and lab-based protocol using heat simulations in a climatic chamber. 
+
+
+Since 2026, my postdoctoral work is supported by a grant from the [**Fonds de recherche du Québec**](https://doi.org/10.69777/2000577). ![](/about/index_files/logoFRQ.png){width=10%}
+
+
 
 Learn more about my research interests in [publications](/publication).
 
