@@ -18,7 +18,7 @@ website:
   navbar:
     logo: assets/luc/img/logo_rounded.svg
     right:
-      - text: About
+      - text: About Me
         aria-label: "About Me"
         href: about/index.qmd
       - text: Blog
