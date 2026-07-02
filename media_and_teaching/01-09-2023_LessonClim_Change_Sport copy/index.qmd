@@ -1,0 +1,62 @@
+---
+title: "Climate Change & Sport Courses"
+author: Luc Souilla
+date: 2023-09-01
+slug: climchangesport-2023
+image: featured.png
+categories:
+  - Courses
+  - Sport Science
+  - Climate Change
+subtitle: "Course Introduction: Climate Change for Sport‑Science Students [FRENCH]"
+description: ''
+links:
+- icon: youtube
+  name: Courses [French]
+  url: https://www.youtube.com/playlist?list=PL6BVINVkm6GH_IHtx4X4_VCosPhs4zUkc
+
+---
+
+
+## Introduction 
+Face à la crise écologique et sociale qui se manifeste désormais de manière mondialisée (réchauffement climatique, catastrophes naturelles, raréfaction des ressources naturelles et
+d'eau douce, écarts entre pays développés et pays en développement), le développement durable doit être un élément fondamental à intégrer dans nos décisions politiques, économiques, sociétales et culturelles.
+Tous les secteurs d'activités sont concernés par le développement durable : l'agriculture, l'industrie, l'habitat, les transports, mais aussi le monde des activités physiques et sportives. La formation universitaire Sciences et Techniques des Activités Physiques et Sportives (STAPS) et les professionnels formés doivent donc repenser leur formation et activités au regard de ces enjeux environnementaux et climatiques.
+
+
+## Contenu 
+
+**Les objectis de ce cours:**
+
+- Comprendre les enjeux environnementaux et climatiques actuels et définir le concept de développement durable.
+- Analyser l’impact du sport sur l’environnement ainsi que les répercussions des changements climatiques sur les pratiques sportives.
+- Adapter la formation STAPS (Sciences et Techniques des Activités Physiques et Sportives) aux exigences de l’urgence climatique et préparer les futurs professionnels du secteur.
+
+**Contenu vidéo:** 
+
+1- LE PROGRÉS TECHNIQUE UN CATALYSEUR DU DÉVELOPPEMENT & ORIGINES DU DÉVELOPPEMENT [➡️ Cours 1 lien ⬅️](https://youtu.be/SpYSVxuTQUY)
+
+2- ÉVALUATION DES CONSÉQUENCES CLIMATIQUES ET ENVIRONNEMENTALES DU DÉVELOPPEMENT [➡️ Cours 2 lien ⬅️️](https://youtu.be/mXGPj_9Pv5A)
+
+3- ADAPTATION ET ATTÉNUATION: SOLUTIONS ENVISAGEABLES [➡️ Cours 3 lien ⬅️](https://youtu.be/TBX1N3_a8G8)
+
+4- L’IMPACT DU SPORT SUR L’ENVIRONNEMENT ET LE CLIMAT / DE L’ENVIRONNEMENT ET DU CLIMAT SUR LE SPORTIF [➡️ Cours 4 lien ⬅️](https://youtu.be/gNIRwhbPhho)
+
+
+À l’issue du cours, chaque groupe de 3-4 étudiants doivent concevoir un projet concret inscrit dans une dynamique d’atténuation ou d’adaptation aux changements climatiques. Les scénarios proposés incluent:
+
+- Professionnels issus de formations STAPS: élaboration de programmes, politiques ou services visant à réduire l’empreinte carbone en lien avec la profession.
+
+- Étudiants STAPS: conception d’initiatives universitaires (campagnes de sensibilisation, projets de recherche appliquée, partenariats avec des structures sportives…) qui intègrent les principes de d'atténuatione et adaptation aux changements climatiques .
+
+
+**Disclaimer:** Ce cours a été créé et animé dans le cadre de mon doctorat. Il reflète mon expertise personnelle ; je ne suis ni climatologue ni chercheur spécialisé en sciences du climat. N’hésitez pas à signaler toute approximation ou omission dans la section commentaires afin que je puisse corriger ou enrichir le contenu avec des éléments essentiels.
+
+
+![Fiche d'informations pour les étudiants](fiche.png){fig-align="center" fig-alt="Infographie pour les étudiants"}
+
+
+
+
+
+
