@@ -4,3 +4,11 @@
   height: auto !important;
   width: auto !important;
 }
+
+/* Prevent navbar items from wrapping to second line */
+.navbar-nav .nav-link {
+  white-space: nowrap !important;
+  font-size: 0.85rem !important;
+  padding-left: 0.5rem !important;
+  padding-right: 0.5rem !important;
+}

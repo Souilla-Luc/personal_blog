@@ -16,24 +16,13 @@ resources:
 links:
 - icon: microphone
   name: Accès au live (en français)
-  url: https://www.985fm.ca/audio/787131/chaque-minute-il-y-a-une-personne-qui-meurt-de-la-chaleur-dans-le-monde
+  url: https://www.985fm.ca/audio/787131/chaque-minute-il-y-a-une-personne-qui-meurt-de-la-chaleur-dans-le-monde{target="_blank"}
 ---
 
 **Pour les auditeurs situés À L'EXTÉRIEUR DU CANADA, l'entrevue est disponible en format enregistré en bas de page.**
 
 J'ai eu le plaisir d'être invité à l'émission L'effet Lavallée sur le 98,5 FM. Au cours de cette entrevue d'une quinzaine de minutes avec Marie-Claude Lavallée, nous explorons les effets de la chaleur sur la santé en allant bien au-delà de la mortalité : ses impacts sur la santé physique, la santé mentale et nos comportements du quotidien. C'est également l'occasion de présenter les projets de recherche menés actuellement au laboratoire, qui visent à mieux comprendre les réponses du corps humain à la chaleur, et ainsi à développer des stratégies d'adaptation plus efficaces pour les populations les plus vulnérables.
 
-```
-html_tag_audio <- function(file, type = c("wav")) {
-  type <- match.arg(type)
-  htmltools::tags$audio(
-    controls = "",
-    htmltools::tags$source(
-      src = file,
-      type = glue::glue("audio/{type}", type = type)
-    )
-  )
-}
 
 
 ```{=html}

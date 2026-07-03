@@ -6,7 +6,7 @@ execute:
 title-block-banner: true
 
 # Default fields for citation
-citation: true
+citation: false
 appendix-cite-as: display
 
 # Default for table of contents
@@ -22,12 +22,6 @@ format:
       - ../_partials/title-block-link-buttons/title-block.html
 
 # Post info
-author: Silvia Canelón
+author: Luc Souilla
 
-# Enable comments
-comments:
-  utterances:
-    repo: spcanelon/silvia
-    issue-term: title
-    theme: boxy-light
-    label: "comments :crystal_ball:"
+#
