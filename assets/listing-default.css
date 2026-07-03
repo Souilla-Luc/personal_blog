@@ -42,20 +42,75 @@
 
 /* Force toutes les images à la même taille avec recadrage intelligent */
 .quarto-listing-grid .card-img-top {
-  height: 250px !important;
-  min-height: 250px !important;
-  max-height: 250px !important;
+  height: 350px !important;  /* était 250px, augmente selon goût */
+  min-height: 350px !important;
+  max-height: 350px !important;
   width: 100% !important;
   object-fit: cover !important;
   object-position: center !important;
   flex-shrink: 0 !important;
 }
 
-/* Uniformise la hauteur des cartes */
+non je te parle des rebords blanc le contourAh je vois — c'est le fond blanc de la carte elle-même qui contraste avec ton fond beige du site.
+Dans ton listing-default.css, change :
+css.card {
+  background: transparent;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+}
+Remplace par :
+css.card {
+  background: var(--spc-bg-1) !important;  /* même couleur que ton fond de page */
+  border: none;
+  border-radius: 4px;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+}
+Ou simplement :
+css.card {
+  background: transparent !important;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+}
+Tu as déjà background: transparent mais sans le !important — un autre style du thème Cosmo l'écrase probablement. Le !important devrait forcer la transparence et faire disparaître le fond blanc.ou je peux pas agrandir l'image justeDans ton listing-default.css, augmente la hauteur de l'image :
+css.quarto-listing-grid .card-img-top {
+  height: 350px !important;  /* était 250px, augmente selon goût */
+  min-height: 350px !important;
+  max-height: 350px !important;
+  width: 100% !important;
+  object-fit: cover !important;
+  object-position: center !important;
+  flex-shrink: 0 !important;
+}
+Plus l'image est haute, moins le fond blanc de la carte en dessous est visible. Essaie 350px, 400px ou même 450px selon ce qui te plaît visuellement.pdfregarde les defautsJe vois trois problèmes :
+1. Fond blanc sur la carte radio (première carte) — l'image ne remplit pas toute la carte
+2. Hauteurs d'images inconsistantes entre les cartes
+3. La 4ème carte (CPET) est beaucoup plus grande que les trois premières
+Tout ça vient de ton listing-default.css. Voici la version corrigée complète :
+css/* Uniformise toutes les cartes */
 .quarto-listing-grid .card {
-  height: 100% !important;
+  height: 380px !important;
+  min-height: 380px !important;
+  max-height: 380px !important;
   display: flex !important;
   flex-direction: column !important;
+  overflow: hidden !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 8px !important;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Uniformise toutes les images */
+.quarto-listing-grid .card-img-top {
+  height: 220px !important;
+  min-height: 220px !important;
+  max-height: 220px !important;
+  width: 100% !important;
+  object-fit: cover !important;
+  object-position: center !important;
+  flex-shrink: 0 !important;
 }
 
 .quarto-listing-grid .card-body {

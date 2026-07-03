@@ -8,14 +8,14 @@ categories:
   - Radio
   - Heat
   - Health
-subtitle: "Direct radio sur l'effet de la chaleur sur la santé et de l'intérêt de nos projets de recherches que l'on mène actuellement."
+subtitle: "Direct radio sur l'impact de la chaleursur notre santé et l'intéret de comprendre les réponses physiologiques sous-jacentes."
 description: ''
 resources:
   - "**/*.mp3"
   - "media_and_teaching/02-07-2026_RadioFM98.5/entrevue_fr.mp3"
 links:
 - icon: microphone
-  name: Lien site web (en français)
+  name: Lien URL (en français)
   url: https://www.985fm.ca/audio/787131/chaque-minute-il-y-a-une-personne-qui-meurt-de-la-chaleur-dans-le-monde{target="_blank"}
 ---
 
