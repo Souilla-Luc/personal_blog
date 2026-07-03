@@ -1,0 +1,25 @@
+---
+title: "Youtube - CBC/Radio Canada"
+author: Luc Souilla
+date: 2025-09-05
+slug: CBC Radio Canada-Montréal
+image: featured.png
+categories:
+  - Youtube
+  - Heat
+  - Lab Experiment
+subtitle: "Vidéo avec un journaliste de Radio Canada dans une chambre climatique à 38C et 60% d'humidité relative pour comprendre les réponses physiologiques à la chaleur."
+description: ''
+
+links:
+- icon: video
+  name: Lien URL (en français)
+  url: https://www.youtube.com/watch?v=zL3ewBPlHlY{target="_blank"}
+---
+
+J'ai pu accompagner un journaliste dans une investigation terrain intitulée "*Les effets de la chaleur extrême testés par notre journaliste en laboratoire*". Denis Wong et son équipe souhaitaient comprendre les réponses du corps humain à la chaleur lors d'une exposition de 4 heures dans une pièce à 38 °C et 60 % d’humidité.
+
+{{< video https://www.youtube.com/watch?v=zL3ewBPlHlY >}}
+
+
+
