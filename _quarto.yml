@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Luc Souilla"
+  #title: "Luc Souilla"#false
   site-url: https://luc-souilla.netlify.app/
   description: "Researcher interest by global warming and consequences on health."
   favicon: assets/luc/img/logo_rounded.svg
