@@ -1,0 +1,38 @@
+---
+title: "Presentation on Global Health Symposium: Extreme heat and health"
+author: Luc Souilla
+date: 2025-12-10
+slug: danemark-2026
+image: featured.png
+categories:
+  - Congress
+  - Indoor Heat
+  - Heat vulnerability
+  - Heatwaves
+subtitle: "Presentation on Global Health Symposium: Extreme heat and health: In-situ responses of older adults living in social housing before, during and after a heatwave"
+description: ''
+links:
+- icon: video
+  name: Access to my presentation
+  url: https://www.youtube.com/watch?v=7G1B53GanH0{target="_blank"}
+- icon: book-open
+  name: Article on the event
+  url: https://globalhealth.ku.dk/news/2026/climate-change-extreme-heat-and-health-from-evidence-to-action/{target="_blank"}
+
+---
+
+
+## Purpose of the Global Health Symposium
+
+Across three days of presentations, rapid-fire talks and workshops, one message resonated clearly: heatwaves are not just meteorological events - they manifest as a major health crisis and is a matter of justice. Addressing heat and health requires interdisciplinarity to be able to unpack the problem and create health sector preparedness. Further, we need political will to put these solutions into practice.
+
+
+## Personal feelings on the event
+
+This event was truly one of the highlights of my year. It is rare to have an entire week dedicated to a topic as specific as extreme heat and its effects on health. As thermal physiologist, I don't often get the opportunity to engage with other research perspectives, including qualitative approaches, climate justice frameworks, and field-based research. This event changed that. Bringing together early-career and established researchers from around the world, it created a uniquely rich environment for learning, exchange, and collaboration. The workshops in particular were invaluable, allowing us to share our respective expertise and explore new angles on one of the most pressing public health challenges of our time. And to top it all off, the entire week-long event was completely free of charge.
+
+## How can I access all the presentations?
+
+My presentation from December 8th, 2025 is now available online [here](https://www.youtube.com/watch?v=7G1B53GanH0).
+
+If you'd like to explore the other rapid-fire talk presentations from the event, the organizing team has put together a full playlist on YouTube, available [here](https://www.youtube.com/watch?v=0WZ9nHtT0eA&list=PLPSrL9xCToHsczOhsquYFnJle8wXoQIuR)
