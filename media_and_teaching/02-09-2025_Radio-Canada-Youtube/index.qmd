@@ -13,7 +13,7 @@ description: ''
 
 links:
 - icon: video
-  name: Lien URL (en français)
+  name: Lien vers vidéo (en français)
   url: https://www.youtube.com/watch?v=zL3ewBPlHlY{target="_blank"}
 ---
 
