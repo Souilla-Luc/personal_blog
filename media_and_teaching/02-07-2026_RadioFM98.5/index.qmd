@@ -8,7 +8,7 @@ categories:
   - Radio
   - Heat
   - Health
-subtitle: "Direct radio sur l'impact de la chaleursur notre santé et l'intéret de comprendre les réponses physiologiques sous-jacentes."
+subtitle: "Direct radio sur l'impact de la chaleur sur notre santé et l'intéret de comprendre les réponses physiologiques sous-jacentes."
 description: ''
 resources:
   - "**/*.mp3"
