@@ -1,0 +1,28 @@
+---
+title: "Article - Pas de vacances pour la science!"
+author: Luc Souilla
+date: 2026-07-07
+slug: article Udem
+image: featured.png
+categories:
+  - Article
+  - Indoor Heat
+  - Health
+subtitle: "Article de vulgarisation introduisant le projet de recherche HeatIN visant à évaluer l'impact de la chaleur intérieur. Il est disponible dans les nouvelles de l'Université de Montréal dans la série Pas de vacances pour la Science."
+description: ''
+
+links:
+- icon: pen
+  name: Lien URL (en français)
+  url: nouvelles.umontreal.ca/article/2026/07/08/un-laboratoire-sur-la-chaleur-dans-le-salon{target="_blank"}
+---
+
+
+Ces dernières années, les épisodes de chaleur extrême se sont multipliés. Un phénomène qui peut engendrer une augmentation des hospitalisations et de la mortalité. Pour prévenir ces risques, les instances de santé publique recommandent alors de limiter les efforts physiques trop intenses, de boire beaucoup d’eau, de fréquenter des lieux climatisés et de fermer les rideaux le jour. 
+
+Mais à partir de quand la température à l'intérieur d'un logement devient-elle réellement problématique pour la santé?  [Voir plus ici](https://nouvelles.umontreal.ca/article/2026/07/08/un-laboratoire-sur-la-chaleur-dans-le-salon)
+
+
+![Apercu de l'article de vulgarisation](featured.png){fig-align="center" fig-alt="Apercu de l'article de vulgarisation"}
+
+

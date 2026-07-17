@@ -3,7 +3,7 @@ title: "Youtube - CBC/Radio Canada"
 author: Luc Souilla
 date: 2025-09-05
 slug: CBC Radio Canada-Montréal
-image: featured.png
+image: featured2.png
 categories:
   - Youtube
   - Heat
