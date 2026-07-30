@@ -14,13 +14,13 @@ description: ''
 links:
 - icon: pen
   name: Lien Journal de Montréal (en français)
-  url: (https://www.journaldemontreal.com/2026/07/28/les-impacts-de-la-chaleur-sous-la-loupe){target="_blank"}
+  url: https://www.journaldemontreal.com/2026/07/28/les-impacts-de-la-chaleur-sous-la-loupe
 - icon: pen
   name: Lien TVA nouvelles (en français)
-  url: (https://www.tvanouvelles.ca/2026/07/28/les-impacts-de-la-chaleur-sous-la-loupe){target="_blank"}
+  url: https://www.tvanouvelles.ca/2026/07/28/les-impacts-de-la-chaleur-sous-la-loupe
 - icon: pen
   name: Lien UdeM (original)
-  url: (https://nouvelles.umontreal.ca/article/2026/07/08/un-laboratoire-sur-la-chaleur-dans-le-salon){target="_blank"}
+  url: https://nouvelles.umontreal.ca/article/2026/07/08/un-laboratoire-sur-la-chaleur-dans-le-salon
 ---
 
 

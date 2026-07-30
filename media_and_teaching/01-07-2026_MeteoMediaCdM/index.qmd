@@ -14,7 +14,7 @@ description: ''
 links:
 - icon: video
   name: Lien URL (Français)
-  url: https://www.meteomedia.com/fr/video/KpDXmfrA?playlist=JfLBohkB{target="_blank"}
+  url: https://www.meteomedia.com/fr/video/KpDXmfrA?playlist=JfLBohkB
 ---
 
 ** Both French and English versions of my interview are available at the bottom of the page.**
