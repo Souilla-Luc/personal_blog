@@ -14,7 +14,7 @@ description: ''
 links:
 - icon: video
   name: Lien vers vidéo (en français)
-  url: https://www.youtube.com/watch?v=zL3ewBPlHlY{target="_blank"}
+  url: https://www.youtube.com/watch?v=zL3ewBPlHlY
 ---
 
 J'ai pu accompagner un journaliste dans une investigation terrain intitulée "*Les effets de la chaleur extrême testés par notre journaliste en laboratoire*". Denis Wong et son équipe souhaitaient comprendre les réponses du corps humain à la chaleur lors d'une exposition de 4 heures dans une pièce à 38 °C et 60 % d’humidité.

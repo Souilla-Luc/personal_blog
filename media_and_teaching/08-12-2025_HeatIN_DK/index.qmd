@@ -17,7 +17,7 @@ links:
   url: https://www.youtube.com/watch?v=7G1B53GanH0{target="_blank"}
 - icon: book-open
   name: Article on the event
-  url: https://globalhealth.ku.dk/news/2026/climate-change-extreme-heat-and-health-from-evidence-to-action/{target="_blank"}
+  url: https://globalhealth.ku.dk/news/2026/climate-change-extreme-heat-and-health-from-evidence-to-action/
 
 ---
 

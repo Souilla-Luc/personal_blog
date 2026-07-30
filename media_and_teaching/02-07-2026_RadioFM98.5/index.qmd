@@ -16,7 +16,7 @@ resources:
 links:
 - icon: microphone
   name: Lien URL (en français)
-  url: https://www.985fm.ca/audio/787131/chaque-minute-il-y-a-une-personne-qui-meurt-de-la-chaleur-dans-le-monde{target="_blank"}
+  url: https://www.985fm.ca/audio/787131/chaque-minute-il-y-a-une-personne-qui-meurt-de-la-chaleur-dans-le-monde
 ---
 
 **Pour les auditeurs situés À L'EXTÉRIEUR DU CANADA, l'entrevue est disponible en format enregistré en bas de page.**
