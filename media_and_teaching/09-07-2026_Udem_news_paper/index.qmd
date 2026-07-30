@@ -1,5 +1,5 @@
 ---
-title: "Article - Pas de vacances pour la science!"
+title: "Press Release - Journal de Montréal/ TVA Nouvelles/ UdeM"
 author: Luc Souilla
 date: 2026-07-07
 slug: article Udem
@@ -8,13 +8,19 @@ categories:
   - Article
   - Indoor Heat
   - Health
-subtitle: "Article de vulgarisation introduisant le projet de recherche HeatIN visant à évaluer l'impact de la chaleur intérieur. Il est disponible dans les nouvelles de l'Université de Montréal dans la série Pas de vacances pour la Science."
+subtitle: "Articles de presse introduisant le projet de recherche HeatIN visant à évaluer l'impact de la chaleur intérieur. Il a été rédigé par l'Université de Montréal dans la série *Pas de vacances pour la Science* puis relayé dans la presse canadienne."
 description: ''
 
 links:
 - icon: pen
-  name: Lien URL (en français)
-  url: nouvelles.umontreal.ca/article/2026/07/08/un-laboratoire-sur-la-chaleur-dans-le-salon{target="_blank"}
+  name: Lien Journal de Montréal (en français)
+  url: (https://www.journaldemontreal.com/2026/07/28/les-impacts-de-la-chaleur-sous-la-loupe){target="_blank"}
+- icon: pen
+  name: Lien TVA nouvelles (en français)
+  url: (https://www.tvanouvelles.ca/2026/07/28/les-impacts-de-la-chaleur-sous-la-loupe){target="_blank"}
+- icon: pen
+  name: Lien UdeM (original)
+  url: (https://nouvelles.umontreal.ca/article/2026/07/08/un-laboratoire-sur-la-chaleur-dans-le-salon){target="_blank"}
 ---
 
 
