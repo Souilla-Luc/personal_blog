@@ -1,0 +1,29 @@
+---
+title: "Press Release - La Presse Canada"
+author: Luc Souilla
+date: 2026-08-01
+slug: article La presse
+image: featured.png
+categories:
+  - Article
+  - Indoor Heat
+  - Health
+subtitle: "Articles de presse permettant de mettre en valeur les participants du projet Heat'IN qui vise à évaluer l'impact de la chaleur intérieure. Cet article, publié dans *La Presse*, fait suite à la venue d'une journaliste pour voir comment se passe l'étude sur le terrain et récolter le ressenti des participants."
+description: ''
+
+links:
+- icon: pen
+  name: Lien La Presse (en français)
+  url: https://www.lapresse.ca/actualites/sante/2026-08-01/montreal/des-logements-sociaux-transformes-en-petits-laboratoires-sur-la-chaleur.php
+---
+
+
+C’est une journée nuageuse et plus fraîche que prévu. Environ 26 °C à l’extérieur. Dans l’appartement de Lise Pellerin, pourtant climatisé, le thermomètre affiche 25 °C. L’air est lourd. « J’ai tout le temps chaud ! », lance-t-elle, assise dans son petit appartement devenu, le temps d’un été, un laboratoire sur la chaleur.
+
+Mais à partir de quand la température à l'intérieur d'un logement devient-elle réellement problématique pour la santé?  [Voir plus ici](https://www.lapresse.ca/actualites/sante/2026-08-01/montreal/des-logements-sociaux-transformes-en-petits-laboratoires-sur-la-chaleur.php)
+
+Article écrit par Valérie Simard (La Presse, journaliste) et Simon Laliberté (photographe)
+
+![Réalisation de tâches avec une participante](featured.png){fig-align="center" fig-alt="Apercu de l'article de vulgarisation"}
+
+

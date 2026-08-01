@@ -8,7 +8,7 @@ categories:
   - Article
   - Indoor Heat
   - Health
-subtitle: "Articles de presse introduisant le projet de recherche HeatIN visant à évaluer l'impact de la chaleur intérieur. Il a été rédigé par l'Université de Montréal dans la série *Pas de vacances pour la Science* puis relayé dans la presse canadienne."
+subtitle: "Articles de presse introduisant le projet de recherche HeatIN visant à évaluer l'impact de la chaleur intérieure. Il a été rédigé par l'Université de Montréal dans la série *Pas de vacances pour la Science* puis relayé dans la presse canadienne."
 description: ''
 
 links:
