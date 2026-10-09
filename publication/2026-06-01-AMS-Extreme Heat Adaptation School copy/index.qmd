@@ -1,0 +1,32 @@
+---
+title: "When does sweating change during puberty? Revisiting the developmental timing of sex differences in sweating capacity "
+author: 
+- KarLee Lefebvre
+- Amine Dahhak
+- Nicolas Pamart
+- Hsen Hsouna
+- ...
+- name: Luc Souilla
+  orcid: 0000-0002-5773-1440
+
+date: '2026-09-14'
+slug: tbi-definitions
+image: featured.jpg
+categories:
+  - sweating
+  - puberty
+  - journal club
+description: 'The Journal of Physiology'
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP291692
+---
+
+
+## Objective
+This article reviews Topham et al. (2026), which asked whether children really sweat less than adults and whether biological sex matters before adulthood. The authors use the findings to examine a long-held belief, that children are more vulnerable to heat because their sweating capacity is lower. In this journal club, we suggested some evidence or research directions to see whether puberty might shape the sex differences in sweating seen in adults.
+
+
+
+![](featured.jpg){fig-alt=""}
